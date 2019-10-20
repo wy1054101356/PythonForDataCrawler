@@ -1,0 +1,1923 @@
+
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta name="viewport" content="width=1024">
+        <meta http-equiv="Cache-Control" content="no-siteapp " />
+        
+<meta name="mobile-agent" content="format=html5;url=https://gs.ctrip.com/html5/you/sight/464.html" /><title>十堰旅游景点推荐,十堰旅游必去景点,十堰景点大全/排名【携程攻略】</title><meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><meta name="keywords" content="十堰景点,十堰景点推荐,十堰旅游景点,十堰景点排名,十堰景点大全,十堰必去景点" /><meta name="description" content="十堰旅游景点大全，携程攻略社区! 告诉您十堰有哪些热门旅游景点及旅游必去景点，提供十堰旅游景点介绍、图片、门票、点评、景点推荐，了解更多著名十堰旅游景点排行信息就来携程旅游攻略。" /><link rel="alternate" media="only screen and (max-width: 640px)" href="https://gs.ctrip.com/html5/you/sight/464.html" >
+<link rel="canonical" href="http://you.ctrip.com/sight/shiyan464.html" />        <link charset="utf-8" type="text/css" rel="stylesheet" href="//webresource.c-ctrip.com/resgswebonline/R1/common/css/common.v2.0.css?t=20190531132028" />
+        <link charset="utf-8" type="text/css" rel="stylesheet" href="//webresource.c-ctrip.com/resgswebonline/R1/fed/css/fed.v2.0.css?t=20190531132028" />
+        
+    <link charset="utf-8" type="text/css" rel="stylesheet" href="//webresource.c-ctrip.com/resgswebonline/R1/ttd2/css/city_sight.v2.0.css?t=20190531132028" />
+
+        <!--[if lt IE 9]>      
+            <script type="text/javascript">        
+                if(screen.width >= 1200) {     
+                    var link = document.createElement('link');     
+                    link.rel = "stylesheet";       
+                    link.type="text/css";  
+                    link.href="//webresource.c-ctrip.com/resgswebonline/R1/ttd2/css/media_ttd2.css"; 
+                    document.getElementsByTagName('head')[0].appendChild(link);    
+                }      
+            </script>      
+        <![endif]-->   
+    </head>
+    <body>
+        <div>
+<div><input type="hidden" id="CorrelationId" name="CorrelationId" value="7941973495769092831"/><link href="//webresource.c-ctrip.com/ResCRMOnline/R1/pageheader/css/PageHeader_V4.css?temp=7,091,079,139,017,926,213" rel="stylesheet" /> <div class="cui-nav-bar">
+<div class="nav-bar-cont">
+<div class="slogan">让旅行更幸福</div>
+<ul class="language">
+<li>
+<a rel="nofollow" style="cursor:default" class="selected" onmouseover="this.className='selected language_current';this.nextElementSibling.style.display='block';" onmouseout="this.className= 'selected';this.nextElementSibling.style.display='none';"><span><em class="ico-global"></em> Language <b class="n-arrow"></b></span></a>
+<div class="language_wrap drowndrop" style="display: none;" onmouseover="this.style.display='block';this.previousElementSibling.className='selected language_current';" onmouseout="this.style.display='none';this.previousElementSibling.className='selected';">
+<ul class="language_list" id="cui_lang_list">
+<li>
+<a id="ctrip_cn" class="language_big5" href="//www.ctrip.com">简体中文</a>
+</li>
+<li>
+<a id="ctrip_eng" class="language_en" href="https://www.trip.com/?locale=en_US">English (United States)</a>
+</li>
+<li>
+<a id="ctrip_uk" class="language_gb" href="https://uk.trip.com/?locale=en_gb">English (United Kingdom)</a>
+</li>
+<li>
+<a id="ctrip_hk" class="language_hk" href="http://hk.trip.com/?locale=zh_hk">繁&#39636;中文 (香港)</a>
+</li>
+<li>
+<a id="ctrip_hk_en" class="language_hk" href="https://hk.trip.com/?locale=en_hk">English(Hong Kong)</a>
+</li>
+<li>
+<a id="ctrip_korea" class="language_korea" href="https://kr.trip.com/?locale=ko_KR">韩语版</a>
+</li>
+<li>
+<a id="ctrip_jap" class="language_jap" href="https://jp.trip.com/?locale=ja_JP">日语版</a>
+</li>
+<li>
+<a id="ctrip_sg" class="language_sg" href="https://sg.trip.com/?locale=en_SG">English (Singapore)</a>
+</li>
+<li>
+<a id="ctrip_au" class="language_au" href="https://au.trip.com/?locale=en_au">English (Australia)</a>
+</li>
+<li>
+<a id="ctrip_de" class="language_de" href="https://de.trip.com/?locale=de_DE">Deutsch</a>
+</li>
+<li>
+<a id="ctrip_fr" class="language_fr" href="https://fr.trip.com/?locale=fr_FR">Fran&ccedil;ais</a>
+</li>
+<li>
+<a id="ctrip_es" class="language_es" href="https://es.trip.com/?locale=es_ES">Espa&ntilde;ol</a>
+</li>
+<li>
+<a id="ctrip_it" class="language_it" href="https://it.trip.com/?locale=it_IT">Italiano</a>
+</li>
+<li>
+<a id="ctrip_ru" class="language_ru" href="https://ru.trip.com/?locale=ru_RU">Русский</a>
+</li>
+<li>
+<a id="ctrip_th" class="language_th" href="https://th.trip.com/?locale=th_TH">泰国站</a>
+</li>
+<li>
+<a id="ctrip_id" class="language_id" href="https://id.trip.com/?locale=id_ID">Bahasa Indonesia</a>
+</li>
+<li>
+<a id="ctrip_my" class="language_my" href="https://my.trip.com/?locale=ms_MY">Bahasa Malaysia</a>
+</li>
+<li>
+<a id="ctrip_my_en" class="language_my" href="https://my.trip.com/?locale=en_my">English (Malaysia)</a>
+</li>
+<li>
+<a id="ctrip_vn" class="language_vn" href="https://vn.trip.com/?locale=vi_VN">越南语</a>
+</li>
+<li>
+<a id="ctrip_nl" class="language_nl" href="https://nl.trip.com/?locale=nl_NL">荷兰语</a>
+</li>
+<li>
+<a id="ctrip_pl" class="language_pl" href="https://pl.trip.com/?locale=pl_PL">波兰语&gt;</a>
+</li>
+<li>
+<a id="ctrip_gr" class="language_gr" href="https://gr.trip.com/?locale=el_GR">希腊语</a>
+</li>
+<li>
+<a id="ctrip_tr" class="language_tr" href="https://tr.trip.com/?locale=tr_TR">土耳其语</a>
+</li>
+<li>
+<a id="ctrip_pt" class="language_pt" href="https://br.trip.com/?locale=pt_BR">巴西葡萄牙语</a>
+</li>
+</ul>
+</div>
+</li>
+</ul>
+<ul class="nav-bar-set">
+<li class="set-list set-logIn" id="nav-bar-set-login" style="display:none">
+<a class="person-text" onclick="DoLogin()" style="cursor:pointer;"><span class="set-text"><span class="member-name" name="nav-bar-mname">您好</span>，请登录 </span></a>
+</li>
+<li class="set-list" id="nav-bar-set-reg" style="display:none">
+<a class="person-text nav-per" href="https://passport.ctrip.com/user/reg/home "><span class="set-text"> 免费注册 </span></a>
+</li>
+<li class="set-list myctrip-name" name="cui-nav-bar-set-list" id="nav-bar-set-myctrip-name" style="display:none">
+<a href="https://my.ctrip.com/home/myinfo.aspx#ctm_ref=ssc_hp_myctrip_a" class="person-text nav-myctrip"><span class="set-text"><span class="member-name" name="nav-bar-d-info">普通会员</span><b class="n-arrow"></b></span></a>
+<ul class="per-drowndrop" style="display: none;" id="nav-bar-set-my-info">
+<li class="my-img">
+<a rel="nofollow" href="https://sinfo.ctrip.com/MyInfo/AccountCenter/UserInfoUpdate.aspx"><img name="nav-bar-d-info" src="https://pic.c-ctrip.com/platform/online/home/ico_deafult.png"></a>
+</li>
+<li class="my-data">
+<p class="integral" name="nav-bar-d-info" rel="nofollow">积分：<a href="https://sinfo.ctrip.com/MyInfo/AccountCenter/MineMileage.aspx ">0</a>
+</p>
+<p class="member-grade" name="nav-bar-d-info">普通会员<a style="display:none">领福利</a>
+</p>
+</li>
+<li class="sign-out">
+<a rel="nofollow" href="https://passport.ctrip.com/user/logout ">退出</a>
+</li>
+</ul>
+</li>
+<li class="set-list set-infor">
+<i class="infor-notice"></i><a class="infor-num" id="nav-bar-set-msgnum" rel="nofollow">消息<span>0</span></a>
+</li>
+<li class="set-list set-myctrip-list" name="cui-nav-bar-set-list">
+<a class="person-text nav-myctrip" href="https://my.ctrip.com/home/myinfo.aspx#ctm_ref=ssc_hp_myctrip_a "><span class="set-text"> 我的携程 <b class="n-arrow"></b></span></a>
+<ul class="nav-drowndrop" style="display: none;">
+<li>
+<a rel="nofollow" href="https://my.ctrip.com/FavoriteOnline/hotel/hotellist.aspx#ctm_ref=ssc_hp_myctrip_collect_a ">我的收藏 </a>
+</li>
+<li>
+<a rel="nofollow" href="https://smarket.ctrip.com/Promocode/zh-cn/Promocode.aspx#ctm_ref=ssc_hp_myctrip_integral_a ">我的优惠券 </a>
+</li>
+<li>
+<a rel="nofollow" href="https://my.ctrip.com/Home/Passenger/PassengerList.aspx#ctm_ref=ssc_hp_myctrip_info_a ">常用信息 </a>
+</li>
+<li>
+<a rel="nofollow" href="https://secure.ctrip.com/webwallet/index#ctm_ref=ssc_hp_myctrip_wallet_a ">我的钱包 </a>
+</li>
+</ul>
+</li>
+<li class="set-list set-myorder-list" name="cui-nav-bar-set-list">
+<a class="person-text nav-myctrip" rel="nofollow" href="https://my.ctrip.com/home/Order/AllOrder.aspx#ctm_ref=ssc_hp_myctrip_allorders_a "><span class="set-text"> 我的订单 <b class="n-arrow"></b></span></a>
+<ul class="nav-drowndrop drowndrop-order" style="display: none;">
+<li>
+<a rel="nofollow" href="https://my.ctrip.com/Home/Order/FlightOrderList.aspx#ctm_ref=ssc_hp_myctrip_flightorders_a ">机票+相关订单 </a>
+</li>
+<li>
+<a rel="nofollow" href="https://my.ctrip.com/Home/Order/HotelOrderList.aspx#ctm_ref=ssc_hp_myctrip_hotelorders_a ">酒店订单 </a>
+</li>
+<li>
+<a rel="nofollow" href="https://my.ctrip.com/Home/Order/PkgOrderList.aspx#ctm_ref=ssc_hp_myctrip_tourorders_a ">旅游订单 </a>
+</li>
+<li>
+<a rel="nofollow" href="https://my.ctrip.com/Home/Order/RailwayOrderList.aspx#ctm_ref=ssc_hp_myctrip_trainorders_a ">火车票订单 </a>
+</li>
+<li>
+<a href="https://my.ctrip.com/home/Order/AllOrder.aspx#ctm_ref=ssc_hp_myctrip_allorders_a ">全部订单 </a>
+</li>
+<li>
+<a class="phone-line" href="https://passport.ctrip.com/user/member/fastOrder#ctm_ref=ssc_hp_myctrip_phoneorders_a ">手机号查订单 </a>
+</li>
+</ul>
+</li>
+<li class="set-list">
+<a target="_blank" class="person-text nav-per" href="http://kefu.ctrip.com"><span class="set-text"> 客服中心 </span></a>
+</li>
+<li class="set-list set-phone" name="cui-nav-bar-set-list">
+<a href="#" class="person-text nav-myctrip"><span class="set-text"><i class="ico_app"></i></span></a>
+<ul class="phone-drowndrop" style="display: none;">
+<li class="ico_code">
+<img src="//pic.c-ctrip.com/platform/online/home/er_ctrip_app.jpg" alt=""><p>手机扫码快速下载</p>
+</li>
+<li class="ctrip-app">
+<a href="http://app.ctrip.com">携程旅行手机版</a><i class="arrow-right"></i>
+</li>
+</ul>
+</li>
+<li class="set-list set-wechat" name="cui-nav-bar-set-list">
+<a href="#" class="person-text nav-myctrip"><span class="set-text"><i class="ico_wechat"></i></span></a>
+<ul class="wechat-drowndrop" style="display: none;">
+<li class="ico_code">
+<img src="//pic.c-ctrip.com/platform/online/home/er_ctrip_wechat.jpg" alt=""><p>携程订阅号：helloctrip</p>
+<p class="nth2">扫一扫，<span>领旅行福利</span>
+</p>
+</li>
+</ul>
+</li>
+</ul>
+</div>
+</div><div class="cui_hd_cont">
+<div class="cui_hd">
+<input type="hidden" id="_searchboxNo_" value="ws_www20140409"><input type="hidden" id="_newHeaderFlag_" value="true">
+<div class="ctriplogo">
+<a title="携程旅行网" href="http://www.ctrip.com">携程旅行网 </a>
+</div>
+<div class="nav-tel">
+<ul class="nav-tel-list" id="cui-nav-tel-list">
+<li> 境内：95010</li>
+<li>（或）400-830-6666</li>
+<li class="tel-list-more">香港(中国)：+852-3069-9966</li>
+<li class="tel-list-more">境外：+86-21-3406-4888</li>
+</ul>
+</div>
+</div>
+</div><div id="cui_nav" class="cui_nav_single">
+<div class="base_nav">
+<ul id="cui_nav_ul" class="cui_nav cui_content">
+<li id="cui_c_ph_hp">
+<a id="c_ph_hp" class="cui_nav_non" href="https://www.ctrip.com/">首页</a>
+</li>
+<li class="divider "></li>
+<li id="cui_nav_hotel">
+<a id="nav_hotel" class="cui_nav_has" href="https://hotels.ctrip.com/">酒店<i class="cui_ico_triangle"></i><span class="point"></span></a>
+<div class="cui_subnav_wrap">
+<ul id="ul_nav_hotel" class="cui_sub_nav">
+<li id="ul_c_ph_hotel_h">
+<a id="c_ph_hotel_h" href="https://hotels.ctrip.com/">国内酒店</a>
+</li>
+<li class="divider "></li>
+<li id="ul_c_ph_hoteli_h">
+<a id="c_ph_hoteli_h" href="https://hotels.ctrip.com/international/">海外酒店</a>
+</li>
+<li class="divider "></li>
+<li id="ul_c_ph_inn_h">
+<a id="c_ph_inn_h" href="https://inn.ctrip.com/onlineinn/index?channelid=211">民宿客栈<span class="label-en" id="ACT_Label_42" style="display:none"><em>New</em><i class="triangle"></i></span></a>
+</li>
+<li class="divider "></li>
+<li id="ul_c_ph_apartment_h">
+<a id="c_ph_apartment_h" href="https://inn.ctrip.com/onlineinn/international/index?channelid=209">海外民宿</a>
+</li>
+<li class="divider "></li>
+<li id="ul_c_ph_tuan_h">
+<a id="c_ph_tuan_h" href="http://tuan.ctrip.com">团购</a>
+</li>
+<li class="divider "></li>
+<li id="ul_c_ph_hotsale_h">
+<a id="c_ph_hotsale_h" href="https://hotels.ctrip.com/hotsale">特价酒店</a>
+</li>
+<li class="divider "></li>
+<li id="ul_c_ph_taocanj_h">
+<a id="c_ph_taocanj_h" href="https://vacations.ctrip.com/diysh/hotel">酒店+景点</a>
+</li>
+<li class="divider "></li>
+<li id="ul_c_ph_meetingroom_h">
+<a id="c_ph_meetingroom_h" href="http://meeting.ctrip.com/?channel=0#ctm_ref=mtg_meetingroom_2dh">团队房&bull;长住房</a>
+</li>
+<li class="divider "></li>
+<li id="ul_c_ph_meeting_h">
+<a id="c_ph_meeting_h" href="https://meeting.ctrip.com/?channel=1#ctm_ref=mtg_meeting_2dh">会议<span class="label-cn" id="ACT_Label_14" style="display:none"><em>会员日</em><i class="triangle"></i></span></a>
+</li>
+</ul>
+<a class="cui_ico_order" rel="nofollow" href="https://my.ctrip.com/Home/Order/HotelOrderList.aspx"><i class="cui-icon-hotel"></i>酒店订单 &gt;</a>
+</div>
+</li>
+<li class="divider "></li>
+<li id="cui_nav_vac">
+<a id="nav_vac" class="cui_nav_has" href="https://vacations.ctrip.com/">旅游<span class="label-cn" id="ACT_Label_45" style="display:none"><em>618</em><i class="triangle"></i></span><i class="cui_ico_triangle"></i><span class="point"></span></a>
+<div class="cui_subnav_wrap">
+<ul id="ul_nav_vac" class="cui_sub_nav">
+<li id="ul_c_ph_vacations_v">
+<a id="c_ph_vacations_v" href="https://vacations.ctrip.com/">旅游首页<span class="label-cn" id="ACT_Label_46" style="display:none"><em>暑价狂欢</em><i class="triangle"></i></span></a>
+</li>
+<li class="divider " style="display:none"></li>
+<li id="ul_c_ph_around_v">
+<a id="c_ph_around_v" href="https://vacations.ctrip.com/around">周末游</a>
+</li>
+<li class="divider "></li>
+<li id="ul_c_ph_vacationsd_v">
+<a id="c_ph_vacationsd_v" href="https://vacations.ctrip.com/grouptravel/">跟团游</a>
+</li>
+<li class="divider "></li>
+<li id="ul_c_ph_taocan_v">
+<a id="c_ph_taocan_v" href="https://vacations.ctrip.com/idiytour">自由行</a>
+</li>
+<li class="divider "></li>
+<li id="ul_c_ph_cruise_v">
+<a id="c_ph_cruise_v" href="https://cruise.ctrip.com/">邮轮</a>
+</li>
+<li class="divider "></li>
+<li id="ul_c_ph_taocanj_v">
+<a id="c_ph_taocanj_v" href="https://vacations.ctrip.com/diysh">酒店+景点</a>
+</li>
+<li class="divider "></li>
+<li id="ul_c_ph_huodong_v">
+<a id="c_ph_huodong_v" href="https://huodong.ctrip.com/">当地玩乐</a>
+</li>
+<li class="divider "></li>
+<li id="ul_c_ph_zhutiyou_v">
+<a id="c_ph_zhutiyou_v" href="https://vacations.ctrip.com/themetravel/">主题游</a>
+</li>
+<li class="divider "></li>
+<li id="ul_c_ph_baotuan_v">
+<a id="c_ph_baotuan_v" href="https://vacations.ctrip.com/customtravel">定制旅行</a>
+</li>
+<li class="divider "></li>
+<li id="ul_c_ph_youxue_v">
+<a id="c_ph_youxue_v" href="https://vacations.ctrip.com/youxue">游学</a>
+</li>
+<li class="divider "></li>
+<li id="ul_c_ph_visa_v">
+<a id="c_ph_visa_v" href="https://vacations.ctrip.com/visa">签证</a>
+</li>
+<li class="divider "></li>
+<li id="ul_c_ph_mice_v">
+<a id="c_ph_mice_v" href="https://mice.ctrip.com">企业会奖</a>
+</li>
+<li class="divider "></li>
+<li id="ul_c_ph_hh_v">
+<a id="c_ph_hh_v" target="_blank" rel="nofollow" href="https://www.hhtravel.com/#ctm_ref=hh_ct_thp_nav">高端游</a>
+</li>
+<li class="divider "></li>
+<li id="ul_c_ph_golf_v">
+<a id="c_ph_golf_v" href="http://fun.iwanoutdoor.com/">爱玩户外</a>
+</li>
+<li class="divider "></li>
+<li id="ul_c_ph_insurance_v">
+<a id="c_ph_insurance_v" href="https://vacations.ctrip.com/insurance">保险</a>
+</li>
+<li class="divider "></li>
+<li id="ul_c_ph_deals_v">
+<a id="c_ph_deals_v" href="https://vacations.ctrip.com/tours/deals/index">特卖汇</a>
+</li>
+</ul>
+<a class="cui_ico_order" rel="nofollow" href="https://my.ctrip.com/Home/Order/PkgOrderList.aspx"><i class="cui-icon-vacations"></i>旅游订单 &gt;</a>
+</div>
+</li>
+<li class="divider divider_spec"></li>
+<li id="cui_nav_gentuan">
+<a id="nav_gentuan" class="cui_nav_non" DividerClass="divider_spec" href="https://vacations.ctrip.com/grouptravel">跟团游</a>
+</li>
+<li class="divider divider_spec"></li>
+<li id="cui_nav_ziyouxing">
+<a id="nav_ziyouxing" class="cui_nav_non" DividerClass="divider_spec" href="https://vacations.ctrip.com/idiytour">自由行</a>
+</li>
+<li class="divider "></li>
+<li id="cui_nav_flight">
+<a id="nav_flight" class="cui_nav_has" href="https://flights.ctrip.com/">机票<i class="cui_ico_triangle"></i><span class="point"></span></a>
+<div class="cui_subnav_wrap">
+<ul id="ul_nav_flight" class="cui_sub_nav">
+<li id="ul_c_ph_flights_f">
+<a id="c_ph_flights_f" href="https://flights.ctrip.com">国内机票</a>
+</li>
+<li class="divider "></li>
+<li id="ul_c_ph_flightsi_f">
+<a id="c_ph_flightsi_f" href="https://flights.ctrip.com/international/search/">国际&bull;港澳台机票</a>
+</li>
+<li class="divider "></li>
+<li id="ul_c_ph_fuzzy_f">
+<a id="c_ph_fuzzy_f" href="https://flights.ctrip.com/fuzzy/#ctm_ref=ctr_nav_flt_fz_pgs">特价机票</a>
+</li>
+<li class="divider "></li>
+<li id="ul_c_ph_taocan_f">
+<a id="c_ph_taocan_f" href="https://taocan.ctrip.com">机+酒</a>
+</li>
+<li class="divider "></li>
+<li id="ul_c_ph_flightstoolbox_f">
+<a id="c_ph_flightstoolbox_f" href="https://flights.ctrip.com/actualtime">航班动态</a>
+</li>
+<li class="divider "></li>
+<li id="ul_c_ph_bookseat_f">
+<a id="c_ph_bookseat_f" rel="nofollow" href="https://flights.ctrip.com/domestic/checkinseat/index">值机选座</a>
+</li>
+<li class="divider "></li>
+<li id="ul_c_ph_flightorderlist_f">
+<a id="c_ph_flightorderlist_f" rel="nofollow" href="https://my.ctrip.com/Home/Order/FlightOrderList.aspx">退票改签</a>
+</li>
+<li class="divider "></li>
+<li id="ul_c_ph_airportguides_f">
+<a id="c_ph_airportguides_f" rel="nofollow" href="https://flights.ctrip.com/booking/airport-guides.html">机场攻略</a>
+</li>
+</ul>
+<a class="cui_ico_order" rel="nofollow" href="https://my.ctrip.com/Home/Order/FlightOrderList.aspx"><i class="cui-icon-flight"></i>机票订单 &gt;</a>
+</div>
+</li>
+<li class="divider "></li>
+<li id="cui_nav_trains">
+<a id="nav_trains" class="cui_nav_has" href="https://trains.ctrip.com">火车<i class="cui_ico_triangle"></i><span class="point"></span></a>
+<div class="cui_subnav_wrap">
+<ul id="ul_nav_trains" class="cui_sub_nav">
+<li id="ul_c_ph_train_t">
+<a id="c_ph_train_t" href="https://trains.ctrip.com">国内火车票</a>
+</li>
+<li class="divider "></li>
+<li id="ul_c_ph_traino_t">
+<a id="c_ph_traino_t" href="http://rails.ctrip.com">国际&bull;港台火车票</a>
+</li>
+</ul>
+<a class="cui_ico_order" rel="nofollow" href="https://my.ctrip.com/Home/Order/RailwayOrderList.aspx"><i class="cui-icon-train"></i>火车票订单 &gt;</a>
+</div>
+</li>
+<li class="divider "></li>
+<li id="cui_nav_destination">
+<a id="nav_destination" class="cui_nav_has" href="https://bus.ctrip.com/">汽车票<i class="cui_ico_triangle"></i><span class="point"></span></a>
+<div class="cui_subnav_wrap">
+<ul id="ul_nav_destination" class="cui_sub_nav">
+<li id="ul_c_ph_bus_t">
+<a id="c_ph_bus_t" href="https://bus.ctrip.com/">汽车票</a>
+</li>
+<li class="divider "></li>
+<li id="ul_c_ph_ship_t">
+<a id="c_ph_ship_t" href="https://bus.ctrip.com/ship/">船票</a>
+</li>
+<li class="divider "></li>
+<li id="ul_c_ph_yacht_t">
+<a id="c_ph_yacht_t" target="_blank" rel="nofollow" href="https://yacht.ctrip.com/">游艇帆船</a>
+</li>
+<li class="divider "></li>
+<li id="ul_c_ph_daozy_t">
+<a id="c_ph_daozy_t" href="http://pages.c-ctrip.com/bus/xicui/201803/dzy/html/pc.html">到站游</a>
+</li>
+</ul>
+<a class="cui_ico_order" rel="nofollow" href="https://my.ctrip.com/Home/Order/QicheOrderlist.aspx"><i class="cui-icon-bus"></i>汽车票订单 &gt;</a>
+</div>
+</li>
+<li class="divider "></li>
+<li id="cui_nav_car">
+<a id="nav_car" class="cui_nav_has" href="https://car.ctrip.com/#ctm_ref=chp_var_txt">用车<span class="label-cn" id="ACT_Label_43" style="display:none"><em>毕业季</em><i class="triangle"></i></span><i class="cui_ico_triangle"></i><span class="point"></span></a>
+<div class="cui_subnav_wrap">
+<ul id="ul_nav_car" class="cui_sub_nav">
+<li id="ul_c_ph_car_c">
+<a id="c_ph_car_c" href="https://car.ctrip.com/#ctm_ref=chp_var_txt">用车首页</a>
+</li>
+<li class="divider "></li>
+<li id="ul_c_ph_hwzj_c">
+<a id="c_ph_hwzj_c" href="https://car.ctrip.com/hwzijia#ctm_ref=chp_var_txt">境外租车</a>
+</li>
+<li class="divider "></li>
+<li id="ul_c_ph_hwdaijia_c">
+<a id="c_ph_hwdaijia_c" href="https://car.ctrip.com/hwdaijia#ctm_ref=chp_var_txt">境外接送机<span class="label-cn" id="ACT_Label_44" style="display:none"><em>低价特惠</em><i class="triangle"></i></span></a>
+</li>
+<li class="divider "></li>
+<li id="ul_c_ph_hwrizu_c">
+<a id="c_ph_hwrizu_c" href="https://car.ctrip.com/line/index">境外包车</a>
+</li>
+<li class="divider "></li>
+<li id="ul_c_ph_zj_c">
+<a id="c_ph_zj_c" href="https://car.ctrip.com/zijia#ctm_ref=chp_var_txt">国内租车</a>
+</li>
+<li class="divider "></li>
+<li id="ul_c_ph_daijia_c">
+<a id="c_ph_daijia_c" href="https://car.ctrip.com/daijia#ctm_ref=chp_var_txt">国内接送机/火车</a>
+</li>
+<li class="divider "></li>
+<li id="ul_c_ph_rizu_c">
+<a id="c_ph_rizu_c" href="https://car.ctrip.com/idayweb">国内包车</a>
+</li>
+</ul>
+<a class="cui_ico_order" rel="nofollow" href="https://my.ctrip.com/Home/Order/CarOrderList.aspx"><i class="cui-icon-car"></i>用车订单 &gt;</a>
+</div>
+</li>
+<li class="divider "></li>
+<li id="cui_nav_ticket">
+<a id="nav_ticket" class="cui_nav_has" href="https://piao.ctrip.com/">门票<i class="cui_ico_triangle"></i><span class="point"></span></a>
+<div class="cui_subnav_wrap">
+<ul id="ul_nav_ticket" class="cui_sub_nav">
+<li id="ul_c_ph_piao_p">
+<a id="c_ph_piao_p" href="https://piao.ctrip.com/?clear=t#ctm_ref=tkt_home_tab_inland">境内门票</a>
+</li>
+<li class="divider "></li>
+<li id="ul_c_ph_piaooversea_p">
+<a id="c_ph_piaooversea_p" href="https://piao.ctrip.com/oversea#ctm_ref=tkt_home_tab_oversea">出境&bull;港澳台门票</a>
+</li>
+<li class="divider "></li>
+<li id="ul_c_ph_huodong_p">
+<a id="c_ph_huodong_p" href="https://huodong.ctrip.com#ctm_ref=ctr_hp_ttd">当地玩乐</a>
+</li>
+<li class="divider "></li>
+<li id="ul_c_ph_wifi_p">
+<a id="c_ph_wifi_p" href="https://huodong.ctrip.com/wifi#ctm_ref=ctr_hp_wifi">出境WiFi&bull;电话卡</a>
+</li>
+<li class="divider "></li>
+<li id="ul_c_ph_around_p">
+<a id="c_ph_around_p" href="https://vacations.ctrip.com/around">周末游</a>
+</li>
+<li class="divider "></li>
+<li id="ul_c_ph_disney_p">
+<a id="c_ph_disney_p" href="http://piao.ctrip.com/dest/t4651499.html">上海海昌</a>
+</li>
+</ul>
+<a class="cui_ico_order" rel="nofollow" href="https://my.ctrip.com/Home/Order/LocalUnionOrderList.aspx"><i class="cui-icon-ticket"></i>门票玩乐订单 &gt;</a>
+</div>
+</li>
+<li class="divider "></li>
+<li id="cui_c_ph_you" class="cui_nav_current">
+<a id="c_ph_you" class="cui_nav_non" href="https://you.ctrip.com/">攻略</a>
+</li>
+<li class="divider "></li>
+<li id="cui_nav_g">
+<a id="nav_g" class="cui_nav_has" href="http://g.ctrip.com/">全球购<i class="cui_ico_triangle"></i><span class="point"></span></a>
+<div class="cui_subnav_wrap">
+<ul id="ul_nav_g" class="cui_sub_nav">
+<li id="ul_c_ph_mdg_g">
+<a id="c_ph_mdg_g" href="https://g.ctrip.com/">名店购</a>
+</li>
+<li class="divider "></li>
+<li id="ul_c_ph_ts_g">
+<a id="c_ph_ts_g" href="https://tax.ctrip.com/?bid=2&amp;cid=1&amp;pid=1">退税</a>
+</li>
+<li class="divider "></li>
+<li id="ul_c_ph_ylth_g">
+<a id="c_ph_ylth_g" href="https://g.ctrip.com/gsmarketingactive/unionpay?ctm_ref=M_gw_3home_paypal_cl">银联特惠</a>
+</li>
+<li class="divider "></li>
+<li id="ul_c_ph_skjl_g">
+<a id="c_ph_skjl_g" href="https://card.ctrip.com/#ctm_ref=ctr_bid_0_cid_1_pid_1">万千赏</a>
+</li>
+<li class="divider "></li>
+<li id="ul_c_ph_forex_g">
+<a id="c_ph_forex_g" href="https://forex.ctrip.com/?bid=62&amp;1=1">外币兑换</a>
+</li>
+</ul>
+<a class="cui_ico_order" rel="nofollow" href="http://forex.ctrip.com/order/list/"><i class="cui-icon-foreign"></i>外币兑换订单 &gt;</a>
+</div>
+</li>
+<li class="divider "></li>
+<li id="cui_nav_lpk">
+<a id="nav_lpk" class="cui_nav_has" href="https://lipin.ctrip.com">礼品卡<i class="cui_ico_triangle"></i><span class="point"></span></a>
+<div class="cui_subnav_wrap">
+<ul id="ul_nav_lpk" class="cui_sub_nav">
+<li id="ul_c_ph_lipin_l">
+<a id="c_ph_lipin_l" href="https://lipin.ctrip.com">礼品卡首页</a>
+</li>
+<li class="divider "></li>
+<li id="ul_c_ph_lipinholiday_l">
+<a id="c_ph_lipinholiday_l" href="https://lipin.ctrip.com/lipinonline/theme">节日/主题购卡</a>
+</li>
+<li class="divider "></li>
+<li id="ul_c_ph_xcb_l">
+<a id="c_ph_xcb_l" href="https://lipin.ctrip.com/xcb">礼品卡福袋</a>
+</li>
+<li class="divider "></li>
+<li id="ul_c_ph_lipincorp_l">
+<a id="c_ph_lipincorp_l" href="https://lipin.ctrip.com/lipinonline/static/intentional">企业采购</a>
+</li>
+<li class="divider "></li>
+<li id="ul_c_ph_dhq_l">
+<a id="c_ph_dhq_l" href="https://lipin.ctrip.com/voucher">兑换券</a>
+</li>
+<li class="divider "></li>
+<li id="ul_c_ph_forexlipin_l">
+<a id="c_ph_forexlipin_l" href="https://forex.ctrip.com/?bid=12&amp;1=1">外币兑换</a>
+</li>
+</ul>
+<a class="cui_ico_order" rel="nofollow" href="https://my.ctrip.com/Home/Order/TicketOrderList.aspx"><i class="cui-icon-card"></i>礼品卡订单 &gt;</a>
+</div>
+</li>
+<li class="divider "></li>
+<li id="cui_nav_sl">
+<a id="nav_sl" class="cui_nav_has" href="https://ct.ctrip.com/#ctm_ref=xcct">商旅<i class="cui_ico_triangle"></i><span class="point"></span></a>
+<div class="cui_subnav_wrap">
+<ul id="ul_nav_sl" class="cui_sub_nav">
+<li id="ul_c_ph_slsy_s">
+<a id="c_ph_slsy_s" href="https://ct.ctrip.com/#ctm_ref=xcct">商旅首页</a>
+</li>
+<li class="divider "></li>
+<li id="ul_c_ph_chl_s">
+<a id="c_ph_chl_s" href="https://ct.ctrip.com/platformquery/landing/index#ctm_ref=xcpt">企业差旅平台</a>
+</li>
+<li class="divider "></li>
+<li id="ul_c_ph_hj_s">
+<a id="c_ph_hj_s" href="https://mice.ctrip.com">会议旅游</a>
+</li>
+</ul>
+</div>
+</li>
+<li class="divider divider_spec"></li>
+<li id="cui_nav_cruise">
+<a id="nav_cruise" class="cui_nav_non" DividerClass="divider_spec" href="https://cruise.ctrip.com">邮轮</a>
+</li>
+<li class="divider divider_spec"></li>
+<li id="cui_nav_mudidi">
+<a id="nav_mudidi" class="cui_nav_non" DividerClass="divider_spec" href="https://dst.ctrip.com/">目的地</a>
+</li>
+<li class="divider "></li>
+<li id="cui_finance_pc">
+<a id="finance_pc" class="cui_nav_non" href="https://jr.ctrip.com">金融</a>
+</li>
+<li class="divider "></li>
+<li id="cui_nav_more">
+<a id="nav_more" class="cui_nav_has" rel="nofollow" href="https://mall.ctrip.com">更多<i class="cui_ico_triangle"></i><span class="point"></span></a>
+<div class="cui_subnav_wrap">
+<ul id="ul_nav_more" class="cui_sub_nav">
+<li id="ul_c_ph_ypsc_m">
+<a id="c_ph_ypsc_m" href="https://mall.ctrip.com">优品商城</a>
+</li>
+<li class="divider "></li>
+<li id="ul_c_ph_sjhy_m">
+<a id="c_ph_sjhy_m" href="https://pages.c-ctrip.com/commerce/dy1/index10.html">超级会员</a>
+</li>
+<li class="divider "></li>
+<li id="ul_c_ph_tuangou_m">
+<a id="c_ph_tuangou_m" href="https://tuan.ctrip.com">团购</a>
+</li>
+<li class="divider "></li>
+<li id="ul_c_ph_cards_m">
+<a id="c_ph_cards_m" rel="nofollow" href="https://cards.ctrip.com">合作卡</a>
+</li>
+<li class="divider "></li>
+<li id="ul_c_ph_xcyd_m">
+<a id="c_ph_xcyd_m" href="https://sport.ctrip.com/">携程运动</a>
+</li>
+</ul>
+</div>
+</li>
+</ul>
+</div>
+<div id="nav_bh" class="cui_nav_behind" style="display:none;height:0px;"></div>
+</div><div id="ActConfig_ID" style="display:none">[{"id":"45","onlinetime":"2019/06/13 10:20:23$2019/06/20 23:55:00"},{"id":"46","onlinetime":"2019/06/13 10:20:23$2019/06/20 23:55:00"},{"id":"44","onlinetime":"2019/06/14 00:00:03$2019/06/28 23:55:01"},{"id":"43","onlinetime":"2019/06/14 00:00:03$2019/06/28 23:55:01"},{"id":"42","onlinetime":"2019/05/29 16:00:35$2019/06/29 00:00:30"},{"id":"14","onlinetime":"2019/12/31 23:55:04$2200/08/08 16:19:09"},{"id":"15","onlinetime":"2018/12/13 08:23:32$2180/12/31 23:55:09"}]</div><input type="hidden" id="popfloating_isshow" value="0"><input type="hidden" id="siteDomainHeadFloat" value="ctrip"><input type="hidden" id="bsType" value="0"><input type="hidden" id="formatTel" value="[{'formatTelNum':'95010','prefix':'境内：','sortIndex':'1','standardTelNum':'SHMobile95010','suffix':''},{'formatTelNum':'400-830-6666','prefix':'（或）','sortIndex':'2','standardTelNum':'4008306666','suffix':''},{'formatTelNum':'+ 852-3008-3268','prefix':'香港（中国）：','sortIndex':'3','standardTelNum':'85230083268','suffix':''},{'formatTelNum':'+ 86-21-3406-4888','prefix':'境外：','sortIndex':'4','standardTelNum':'34064888','suffix':''}]">
+<script> ;window.replace=function(){return ''};window.replace=function(){return""}; !function(){window.replace=function(){return""};(function(){var h=document,c=function(a){return h.getElementById(a)},k=null,l=null,m=0,d=[c("cui_nav_hotel"),c("cui_nav_vac"),c("cui_nav_flight"),c("cui_nav_trains"),c("cui_nav_destination"),c("cui_nav_car"),c("cui_nav_ticket"),c("cui_nav_g"),c("cui_nav_lpk"),c("cui_nav_sl"),c("cui_nav_more")],g={onmouseenter:function(a,b){(h.all?a.onmouseenter=b:a.onmouseover=function(a){(null==a.relatedTarget?b():this!==a.relatedTarget&&20!=this.compareDocumentPosition(a.relatedTarget)&& b())})},onmouseout:function(a,b){(h.all?a.onmouseleave=b:a.onmouseout=function(a){(null==a.relatedTarget?b():this!==a.relatedTarget&&20!=this.compareDocumentPosition(a.relatedTarget)&&b())})},addEvent:function(a,b,f){(a.addEventListener?a.addEventListener(b,f,!1):(a.attachEvent?a.attachEvent("on"+b,f):a["on"+b]=f))}},e={setTime:function(){g.onmouseenter(c("cui_nav"),function(){setTimeout(function(){m=150},30)});g.onmouseout(c("cui_nav"),function(){m=0})},initEvent:function(){for(var a=0,b=d.length;b>a;a++)(function(){var b= a;g.onmouseenter(d[b],function(){e.interFn(d[b])});g.onmouseout(d[b],function(){e.outerFn(d[b])})})(a)},reset:function(){for(var a=0,b=d.length;b>a;a++)d[a].className=(-1<d[a].className.indexOf("cui_nav_current")?"cui_nav_current":"")},padReset:function(a){for(var b=0,f=d.length;f>b;b++)(-1<d[b].className.indexOf("cui_nav_current")?d[b].className="cui_nav_current":b!==a&&(d[b].className=""))},interFn:function(a){for(var b=document.getElementById("cui_nav").getElementsByTagName("li"),f="",d=0;d<b.length;d++)b[d].className.match((/cui_nav_current/))&& (f=b[d]);null!=l&&(clearTimeout(l),l=null);k=setTimeout(function(){e.reset();(-1<a.className.indexOf("cui_nav_current")?f.className="cui_nav_current":(a.className="cui_nav_o",f.className="cui_nav_current cui_nav_unhover"))},m)},outerFn:function(a){for(var b=document.getElementById("cui_nav").getElementsByTagName("li"),d="",c=0;c<b.length;c++)b[c].className.match((/cui_nav_current/))&&(d=b[c]);null!=k&&(clearTimeout(k),k=null);l=setTimeout(function(){e.reset();(-1<a.className.indexOf("cui_nav_current")? d.className="cui_nav_current":(a.className="",d.className="cui_nav_current"))},250)},initMobile:function(){for(var a=0,b=d.length;b>a;a++)(function(){var b=a,c=d[b].getElementsByTagName("A")[0];c.href="###";c.onmousedown=function(){e.padReset(b);-1===d[b].className.indexOf("cui_nav_current")&&((-1<d[b].className.indexOf("cui_nav_o")?(d[b].className="",document.getElementsByClassName("cui_nav_current")[0].className="cui_nav_current",c.style.visibility="hidden",setTimeout(function(){c.style.visibility= "visible"},10)):(d[b].className="cui_nav_o",document.getElementsByClassName("cui_nav_current")[0].className="cui_nav_current",document.getElementsByClassName("cui_nav_current")[0].className+=" cui_nav_unhover")))}})(a)},contains:function(a){for(var b=0,c=d.length;c>b;b++)if(0<d[b].compareDocumentPosition(a)-19)return!0;return!1}};c("headStyleId")&&c("headStyleId").parentNode.removeChild(c("headStyleId"));((/ip(hone|od)|ipad/i).test(navigator.userAgent)?(e.initMobile(),g.addEvent(h.body,"click",function(a){e.contains(a.target|| a.srcElement)||e.reset()})):(e.setTime(),e.initEvent()))})()}(); </script></div>
+<div class="gs-header cf"><div class="content"><div class="gs-nav"><ul><li  id="gs_nav_0"><a href="/"><i class="icon_home"></i></a></li><li class="active" id="gs_nav_1"> <a href="/place/">目的地攻略</a></li><li   id="gs_nav_3"> <a href="/travels/">游记</a></li><li   id="gs_nav_4"> <a href="/asks/">问答</a></li><li   id="gs_nav_5"> <a href="http://vacations.ctrip.com/tour/static/page/guide/introduction.html" target="_blank">当地向导</a></li><li   id="gs_nav_8"> <a href="http://top.ctrip.com">口碑榜</a></li><li   id="gs_nav_6"> <a href="/smilin">美食林</a><span class="gs_tipsml"></span></li><li    id="gs_nav_7"> <a href="http://you.ctrip.com/article/?from=ctrip">氢气球</a></li><li  id="my_home"><a href="/members/">我的主页</a></li></ul></div><div class="gs-search-2"><input id="gsSearch" type="text" placeholder="搜索城市/景点/游记/问答/住宿/用户"><button type="button" class="btn-search"></button><div class="gs-notice" id="gsNotice"></div><a class="gs_write_link" id="gsWriteLink" href="http://you.ctrip.com/add-travel/Guide.html"><i></i></a></div></div></div><script type="text/javascript">
+    var getHeadOtherInfo = function () {
+        $.ajax({
+            url: '/Destinationsite/Shared/GetHeadeOtherInfo',
+            type: "POST",
+            async: true,
+            data: {},
+            datatype: "json",
+            success: function (responseText) {
+                if (responseText.IsMerchantUser) {
+                    $('#gs_head_myhomepage a').text('商家主页');
+                }
+                $('#gs_head_myhomepage a').attr('href', responseText.MySiteUrl);
+                if (responseText.ShowUserMsgCount != "") {
+                    //var msg = "<span class=\"tipsbox_outer\"><a href=\"/members/message/receivelist.aspx\" class=\"gstips_supcount\" title=\"消息(" + responseText.ShowUserMsgCount + ")\" rel=\"nofollow\">" + responseText.ShowUserMsgCount + "</a></span>";
+                    var msg = "<span class=\"tipsbox_outer\">" + responseText.ShowUserMsgCount + "</span>";
+                    $('#gs_head_myhomepage').append(msg);
+                }
+            },
+            error: function () {
+                
+            }
+        });
+    };
+    var asynfunc = window.asynfunc || [];
+    asynfunc.push(getHeadOtherInfo);
+</script>
+
+        </div>
+        
+
+<input type="hidden" id="page_id" value="290546" />
+    <input type="hidden" id="putDistrictId" value="464" />
+     <div class="content cf ">
+<div class="breadbar_v1 cf"><ul><li><a href="/">旅游攻略社区</a><i class="icon_gt">&gt;</i></li><li><a href="/place/">目的地<i class="arrow"></i></a><i class="icon_gt">&gt;</i><div class="bread_hover b_continent"><ul><li><a href="/place/asia120001.html">亚洲</a></li><li><a href="/place/europe120002.html">欧洲</a></li><li><a href="/place/northamerica120004.html">北美洲</a></li><li><a href="/place/oceania120003.html">大洋洲</a></li><li><a href="/place/southamerica120005.html">南美洲</a></li><li><a href="/place/africa120006.html">非洲</a></li><li><a href="/place/nanji120481.html">南极洲</a></li></ul></div></li><li><a href="/place/china110000.html">中国<i class="arrow"></i></a><i class="icon_gt">&gt;</i><div class="bread_hover b_country"><ul><li class="b_title">最佳旅游城市</li><li><a href="/place/sanya61.html">三亚</a></li><li><a href="/place/hangzhou14.html">杭州</a></li><li><a href="/place/chengdu104.html">成都</a></li><li><a href="/place/xiamen21.html">厦门</a></li><li><a href="/place/guilin28.html">桂林</a></li><li class="b_morelink"><a href="http://top.ctrip.com/2014/place/guoneilvyouchengshi-p1.html">更多榜单&gt;&gt;</a></li></ul><ul><li class="b_title">最佳旅游景区</li><li><a href="/place/jiuzhaigou25.html">九寨沟</a></li><li><a href="/place/lijiang32.html">丽江</a></li><li><a href="/place/xianggelila106.html">香格里拉</a></li><li><a href="/place/dali31.html">大理</a></li><li><a href="/place/zhangjiajie23.html">张家界</a></li><li class="b_morelink"><a href="http://top.ctrip.com/2014/place/guoneilvyoujingqu-p1.html">更多榜单&gt;&gt;</a></li></ul><ul></div></li><li><a href="/place/hubei100067.html">湖北<i class="arrow"></i></a><i class="icon_gt">&gt;</i><div class="bread_hover b_province"><ul><li class="b_title">热门城市</li><li><a href="/place/wuhan145.html">武汉</a></li><li><a href="/place/yichang313.html">宜昌</a></li><li><a href="/place/shennongjia147.html">神农架</a></li><li><a href="/place/xianning861.html">咸宁</a></li><li><a href="/place/enshi487.html">恩施</a></li><li><a href="/place/xiangyang414.html">襄阳</a></li><li><a href="/place/danjiangkou1018.html">丹江口</a></li><li><a href="/place/jingzhou413.html">荆州</a></li><li><a href="/place/huanggang859.html">黄冈</a></li><li><a href="/place/huangshi710.html">黄石</a></li><li class="b_morelink"><a href="/countrysightlist/hubei100067.html">更多城市&gt;&gt;</a></li></ul></div></li><li><a href="/place/shiyan464.html">十堰<i class="arrow"></i></a><i class="icon_gt">&gt;</i><div class="bread_hover b_province"><ul><li class="b_title">热门城市</li><li><a href="/place/danjiangkou1018.html">丹江口</a></li><li><a href="/place/fangxian2710.html">房县</a></li><li><a href="/place/yunxi120128.html">郧西</a></li><li><a href="/place/zhushan2724.html">竹山</a></li><li class="b_morelink"><a href="/countrysightlist/shiyan464.html">更多城市&gt;&gt;</a></li></ul></div></li><li><h1>十堰旅游景点</h1></li></ul></div>             <div class="dest_toptitle">
+                 <div class="cf">
+                     <div class="f_left">
+                         <h1>
+                             <a title="十堰" href="/place/shiyan464.html">十堰</a>
+                         </h1>
+                         <p>Shiyan</p>
+                         
+                     </div>
+                     <div class="f_right">
+                         <ul>
+                             <li class="des_icon_been" id="wentClick">
+                                 <a href="javascript:void(0)" data-cat="464"
+                                    dataresource-cat="464" data_type="Place" class="a_popup_login" rel="nofollow" id="wentClickID"></a>
+                                 <p>
+                                     <span id="spanwentId" class="textcolor">去过</span><span><em id="emWentValueID">0</em></span>
+                                 </p>
+                             </li>
+                             <li class="des_icon_want" id="wantClick">
+                                 <a href="javascript:void(0)" rel="nofollow" data-cat="464"
+                                    dataresource-cat="464" data_type="Place" class="a_popup_login" id="wantClickID"></a>
+                                 <p>
+                                     <span id="spanwantId" class="textcolor">想去</span><span><em id="emWantValueID">0</em></span>
+                                 </p>
+                             </li>
+                         </ul>
+                     </div>
+                 </div>
+                 <div class="sec_line cf">
+                     
+                     <p class="c_text_left ellipsis">
+欢迎您访问十堰                     </p>
+                 </div>
+             </div>
+     </div>
+         <div class="ttd_topnav_box">
+             <div class="ttd_topnav">
+                 <div class="innerbox">
+                     <ul class="cf">
+                         
+<li class="ttd_first_nav">        <a href="/place/shiyan464.html">主页</a>
+</li><li>        <a href="/traffic/shiyan464.html">交通</a>
+</li><li class="current">        <a href="/sight/shiyan464.html">景点</a>
+</li><li>        <a href="//hotels.ctrip.com/hotel/Shiyan452">住宿</a>
+                <span class="gs_newicon"></span>
+</li><li>        <a href="/restaurant/shiyan464.html">美食</a>
+</li><li>        <a href="/shopping/shiyan464.html">购物</a>
+</li><li>        <a href="/travels/shiyan464.html">游记</a>
+</li><li>        <a href="/journeys/shiyan464.html">行程</a>
+</li><li>        <a href="//vacations.ctrip.com/tour/static/page/guide/introduction.html">当地向导</a>
+</li><li>        <a href="//vacations.ctrip.com/whole-2B126/?searchText=十堰">旅游度假</a>
+                <span class="gs_newicon ddrnewicon"></span>
+</li>                     </ul>
+                 </div>
+             </div>
+         </div>
+     <!--二级导航-->
+    <script type="text/javascript">
+        var INTERFACE = window.INTERFACE || {};
+        /*
+    *想去的后台请求方法
+    * param == 1时表示“想去” param == -1 表示“取消想去”
+    */
+        INTERFACE.wantRequestFn = function(param) {
+            ClickWant();
+        };
+        /**
+    *去过的后台请求方法
+    * param == 1时表示“想去” param == -1 表示“取消想去”
+    */
+        INTERFACE.beenRequestFn = function(param) {
+            ClickWent();
+        };
+    </script>
+<div class="ttd2_background">
+    <div class="content cf">
+        <div class="des_narrow f_left">
+            <!--排行榜-->
+        
+            <!--侧边下载二维码&攻略轮播-->
+<div class="c_vacation" id="destVacationProductId" style="display: none">
+</div>
+
+<script type="text/javascript">
+    function ShowVacationAd() {
+        var districtId = $('#putDistrictId').val();
+        $.ajax({
+            url: '/Destinationsite/SharedComm/GetVacationsAdView',
+            type: "POST",
+            async: true,
+            dataType: 'html',
+            data: { districtId: districtId, rank: Math.random() },
+            success: function (responseText) {
+                if (responseText != "") {
+                    $('#destVacationProductId').show();
+                    $('#destVacationProductId').html($('#destVacationProductId').html() + responseText);
+                    ReplaceVacationUrl();
+                }
+            },
+            error: function () {
+                $('#destVacationProductId').hide();
+            }
+        });
+    }
+    //设置特价度假统计链接锚点
+    function ReplaceVacationUrl() {
+        var pageid = $("#page_id").val();
+        var channel = $("#channel").val();
+        var districtId = $('#putDistrictId').val();
+        if (pageid != "") {
+            var ctmInfo = "#ctm_ref=gs_" + channel + "_" + pageid + "_07_vac_{0}_" + districtId + "_undefined";
+            $("a[data-id=ctm_gs_vacationl]").each(function (i) {
+                var type = $(this).attr("data-type");
+                var text = ctmInfo.replace("{0}", type);
+                var str = $(this).attr("href") + text;
+                $(this).attr("href", str);
+            });
+        }
+    }
+</script><div class="c_hotel" style="display: none" id="destHotelID">
+</div>
+<script type="text/javascript">
+    function ShowspecialHotelAd() {
+        var districtId = $('#putDistrictId').val();
+        $.ajax({
+            url: '/Destinationsite/SharedComm/GetSpecialHotelAdView',
+            type: "POST",
+            async: true,
+            data: { districtId: districtId, rank: Math.random() },
+            success: function (responseText) {
+                if (responseText == "")
+                    $('#destHotelID').hide();
+                else {
+                    $('#destHotelID').show();
+                    $('#destHotelID').html(responseText);
+                    ReplaceHotelUrl();
+                }
+            },
+            error: function () {
+                $('#destHotelID').hide();
+            }
+        });
+    }
+    //设置酒店统计链接锚点
+    function ReplaceHotelUrl() {
+        var pageid = $("#page_id").val();
+        var channel = $("#channel").val();
+        var districtId = $('#putDistrictId').val();
+        if (pageid != "") {
+            var ctmInfo = "#ctm_ref=gs_" + channel + "_" + pageid + "_08_hod_{0}_" + districtId + "_undefined";
+            $("a[data-id=ctm_gs_hotel]").each(function (i) {
+                var type = $(this).attr("data-type");
+                var text = ctmInfo.replace("{0}", type);
+                var str = $(this).attr("href") + text;
+                $(this).attr("href", str);
+
+            });
+        }
+    }
+</script>
+            <!--侧边特价机票--> 
+    <!--侧边tab表单切换-->
+        <div id="cateSTab" class="catetab_title">
+            <ul>
+                <li class="active"><a href="#cate_travel">旅游</a></li>
+                <li><a href="#cate_hotel">酒店</a></li>
+                <li><a href="#cate_flight">机票</a></li>
+                <li><a href="#cate_ticket">门票</a></li>
+                <li class="cate_train"><a href="#cate_train">火车票</a></li>
+            </ul>
+        </div>
+    <div class="catetab_content">
+        <div class="tabitem active" id="cate_travel">
+            <div class="sformline"><label>出发地：</label><input type="text" class="sformtext" readonly="readonly" id="travelFrom" value="上海" data="2" /></div>
+            <div class="sformline"><label>目的地：</label><input type="text" class="sformtext" id="travelTo" value="" data="0" /></div>
+            <div class="sformline"><a href="javascript:;" class="b_blue_s"><span>搜索旅游</span></a></div>
+        </div>
+        <div class="tabitem" id="cate_hotel">
+            <div class="sformline"><label>目的地：</label><input type="text" class="sformtext" id="hotelTo" value="" data="Shiyan||0" /></div>
+            <div class="sformline"><label>入住日期：</label><input type="text" class="sformtext" id="hotelStartDate" readonly="true" /></div>
+            <div class="sformline"><label>退房日期：</label><input type="text" class="sformtext" id="hotelEndDate" readonly="true" /></div>
+                <div class="sformline">
+                    <label>酒店级别：</label><div class="gsn-select sformselect">
+                        <div class="select-txt" data-value="0">不限</div>
+                        <ul style="display: none;" class="selectlist undis">
+                            <li><a data-value="0" href="javascript:;">不限</a></li>
+                            <li><a data-value="5" href="javascript:;">五星级/豪华</a></li>
+                            <li><a data-value="4" href="javascript:;">四星级/高档</a></li>
+                            <li><a data-value="3" href="javascript:;">三星级/舒适</a></li>
+                            <li><a data-value="2" href="javascript:;">二星级以下/经济</a></li>
+                        </ul>
+                        <span class="arrow"></span>
+                    </div>
+                </div>
+            <div class="sformline"><label>关键词：</label><input type="text" class="sformtext" id="hotelKeyword" placeholder="酒店名/地标/商圈" /></div>
+            <div class="sformline"><a href="javascript:;" class="b_blue_s"><span>搜索酒店</span></a></div>
+        </div>
+        <div class="tabitem" id="cate_flight">
+            <div class="sformline"><label>航程类型：</label><span class="radiobox" for="flightOneWay"><input type="radio" id="flightOneWay" checked="checked" value="0" name="flyType" />单程</span><span class="radiobox"><input type="radio" id="flightBackForth" value="1" name="flyType" />往返</span></div>
+            <div class="sformline"><label>出发地：</label><input type="text" class="sformtext w_120" id="flightFrom" value="上海" data="|上海|SHA" /></div>
+            <div class="sformline"><label>目的地：</label><input type="text" class="sformtext w_120" id="flightTo" value="十堰" data="|十堰|WDS" /></div>
+            <div class="sformline"><label>出发日期：</label><input type="text" class="sformtext" id="flightStartDate" readonly="true" /></div>
+            <div class="sformline gray"><label>返回日期：</label><input type="text" class="sformtext" id="flightEndDate" readonly="true" /></div>
+            <div class="sformline"><a href="javascript:;" class="b_blue_s"><span>搜索机票</span></a></div>
+            <div class="changeinput">
+                <a href="javascript:;">换</a>
+            </div>
+        </div>
+        <div class="tabitem" id="cate_ticket">
+            <div class="sformline"><label>景点名称：</label><input type="text" class="sformtext" placeholder="请输入景点名称" id="ticketText" /></div>
+            <div class="sformline"><a href="javascript:;" class="b_blue_s"><span>搜索门票</span></a></div>
+        </div>
+        <div class="tabitem" id="cate_train">
+            <div class="sformline"><label>类型：</label><span class="radiobox"><input type="radio" id="trainOneWay" checked="checked" />单程</span></div>
+            <div class="sformline"><label>出发地：</label><input type="text" class="sformtext w_120" id="trainFrom" value="上海" data="|上海|Shanghai" /></div>
+            <div class="sformline"><label>目的地：</label><input type="text" class="sformtext w_120" id="trainTo" value="" data="||Shiyan" /></div>
+            <div class="sformline"><label>出发日期：</label><input type="text" class="sformtext" id="trainStartDate" readonly="true" /></div>
+            <div class="sformline"><a href="javascript:;" class="b_blue_s"><span>搜索火车票</span></a></div>
+            <div class="changeinput">
+                <a href="javascript:;">换</a>
+            </div>
+        </div>
+    </div>
+    <script type="text/javascript">
+        var INTERFACE = window.INTERFACE || {};
+        var channelName = 'ttd';
+        var district = '464';
+        var isOverseas = false;
+        INTERFACE.isChina = true;
+        //点击搜索酒店 触发的方法
+        INTERFACE.searchHotelFn = function (param) {
+            var cityPY = param.destinationData.split('|')[0];
+            var cityId = param.destinationData.split('|')[2];
+            // var kw = (param.keyword == "" ? "" : ("k1" + param.keyword));
+            var kw = (((!param.hotelLevel) || (param.hotelLevel == "0") || (param.hotelLevel == "")) ? "" : ("star" + param.hotelLevel))
+                + (param.keyword == "" ? "" : (((INTERFACE.isChina || isOverseas) ? "k1" : "k2") + param.keyword));
+            var urlhead = "";
+            var pageid = $("#page_id").val();
+            var gnw = "";
+            if (INTERFACE.isChina || !isOverseas) {
+                gnw = "hod";
+                urlhead = "//hotels.ctrip.com/hotel/";
+            } else {
+                gnw = "hoi";
+                urlhead = "//hotels.ctrip.com/international/";
+            }
+            var url = urlhead + cityPY + cityId
+                + (kw == "" ? "" : ("/" + kw))
+                    + "/?checkin=" + param.startDate
+                        + "&checkout=" + param.endDate;
+            var ctm = "#ctm_ref=gs_" + channelName + "_" + pageid + "_01_" + gnw + "_3_" + district + "_undefined";
+            if (param.pos == "hotel_right_foot") {
+                ctm = "#ctm_ref=gs_" + channelName + "_" + pageid + "_13_" + gnw + "_3_" + district + "_undefined";
+            }
+            window.open(url + ctm, "HotelSearch" + (new Date()).getMilliseconds());
+        };
+        //点击搜索机票 触发的方法
+        INTERFACE.searchFlightFn = function (param) {
+            var type = param.type;
+            var from = param.fromData.split('|')[2];
+            var to = param.destinationData.split('|')[2];
+            var startTime = param.startDate;
+            var endTime = param.endDate;
+            var pageid = $("#page_id").val();
+            var gnw = "";
+            if (INTERFACE.isChina) {
+                gnw = "fld";
+            } else {
+                gnw = "fli";
+            }
+            var ctm = "#ctm_ref=gs_" + channelName + "_" + pageid + "_01_" + gnw + "_3_" + district + "_undefined";
+            if (from != undefined && from != "" && to != undefined && to != "" && startTime != "" && startTime != null) {
+                if (type == 0) {
+
+                    if (INTERFACE.isChina && !isOverseas) {
+                        var diff = GetDateDiff(startTime);
+                        var url0 = "//flights.ctrip.com/booking/" + from + "-" + to + "-day-" + 1 + ".html?SortByPrice=true&ddate=" + startTime;
+                        window.open(url0 + ctm, "FlightSearch" + (new Date()).getMilliseconds());
+                    } else {
+                        var url00 = "//flights.ctrip.com/international/FlightResult.aspx?flighttype=S&relddate=" + startTime + "&dcity=" + from + "&acity=" + to + "";
+                        window.open(url00 + ctm, "FlightSearch" + (new Date()).getMilliseconds());
+                    }
+                } else if (type == 1 && endTime != null && endTime != "") {
+                    if (INTERFACE.isChina && !isOverseas) {
+                        var url1 = "//flights.ctrip.com/booking/" + from + "-" + to + "---d-adu-1/?ddate1=" + startTime + "&ddate2=" + endTime;
+                        window.open(url1 + ctm, "FlightSearch" + (new Date()).getMilliseconds());
+                    } else {
+                        var url00 = "//flights.ctrip.com/international/FlightResult.aspx?flighttype=D&relddate=" + startTime + "&dcity=" + from + "&acity=" + to + "&&relrdate=" + endTime + "";
+                        window.open(url00 + ctm, "FlightSearch" + (new Date()).getMilliseconds());
+                    }
+                }
+            }
+        };
+        //点击搜索旅游 触发的方法
+        INTERFACE.searchTravelFn = function (param) {
+            //form = submitForm({
+            //    action: "//vacations.ctrip.com/booking/IndexSearch.ashx",
+            //    method: "post",
+            //    target: "_blank",
+            //    charset: "gb2312",
+            //    param: {
+            //        "searchFrom": "//you.ctrip.com/",
+            //        "searchID": "0",
+            //        "searchText": param.destination,
+            //        "searchType": "U",
+            //        "searchValue": param.destination,
+            //        "startCity": param.fromData
+            //    }
+            //});
+            var url="//vacations.ctrip.com/handler/search/do?keyword="+escape("\""+param.destination+"\"")+"&targetTab=126";
+            window.open(url, "TravelSearch" + (new Date()).getMilliseconds());
+        };
+        //点击搜索门票 触发的方法
+        INTERFACE.searchTicketFn = function (param) {
+            //var saleCity = $("#tab_vacationStartCity").val(); //出发城市
+            //var param = {
+            //    "SearchFrom": "//vacations.ctrip.com/tickets",
+            //    "SearchID": "0",
+            //    "SearchText": param.name,
+            //    "SearchType": "U",
+            //    "SearchValue": param.name,
+            //    "StartCity": saleCity
+            //};
+
+            //submitForm({
+            //    action: "//vacations.ctrip.com/tickets",
+            //    method: "post",
+            //    target: "_blank",
+            //    charset: "gb2312",
+            //    param: param
+            //});
+            var url="//vacations.ctrip.com/handler/search/do?keyword="+escape(param.name)+"&targetTab=-4";
+            window.open(url, "TicketSearch" + (new Date()).getMilliseconds());
+        };
+        //点击搜索火车票 触发的方法
+        INTERFACE.searchTrainFn = function (param) {
+            var from = param.fromData.split('|')[2];
+            var fromCn = param.fromData.split('|')[1];
+            var to = param.destinationData.split('|')[2];
+            var toCn = param.destinationData.split('|')[1];
+            var startTime = param.startDate;
+            var pageid = $("#page_id").val();
+            var ctm = "#ctm_ref=gs_" + channelName + "_" + pageid + "_01_trd_3_" + district + "_undefined";
+            var url = "//trains.ctrip.com/TrainBooking/Search.aspx?from=" + from.toLowerCase()
+                + "&to=" + to.toLowerCase()
+                    + "&day=" + (GetDateDiff(startTime) + 1)
+                        + "&fromCn=" + escape(fromCn)
+                            + "&toCn=" + escape(toCn);
+            window.open(url + ctm, "TrainSearch" + (new Date()).getMilliseconds());
+        };
+    </script>
+    <!--侧边特价机票-->
+    <div id="specialFlightId" class="special_ticket" style="display:none">
+
+    </div>
+    <input type="hidden" id="startCityId" name="startCityId" value="1" />
+    <input type="hidden" id="endCityId" name="endCityId" value="464" />
+    <input type="hidden" id="dCode" name="dCode" value="" />
+    <input type="hidden" id="aCode" name="aCode" value="" />
+    <input type="hidden" id="inChina" name="inChina" value="True" />
+    <input type="hidden" id="ctmInfo" name="ctmInfo" value="#ctm_ref=gs_ttd_{0}_02_fld_2_464_undefined" />
+    <script type="text/javascript">
+        var index = 0;
+        //下一个标识
+
+        function GetSpecialFlightView() {
+            var dCode = $("#dCode").val();//出发三字码
+            var aCode = $("#aCode").val(); //到达三字码
+
+            var startCity = $("#startCityId").val();
+            var endCity = $("#endCityId").val();
+
+            var inChina = $("#inChina").val(); //是否国内
+
+            if (startCity != "" && endCity != "") {
+                $.ajax({
+                    url: '/Destinationsite/TTDSecond/SharedView/AjaxGetSpecialFlight',
+                    type: "POST",
+                    async: true,
+                    dataType: "text",
+                    data: { dCode: dCode, aCode: aCode, inChina: inChina, startCity: startCity, endCity: endCity, index: index, rank: Math.random() },
+                    success: function (responseText) {
+
+                        if (responseText == "") {
+                            $('#specialFlightId').hide();
+                        } else {
+                            $('#specialFlightId').show();
+                            $('#specialFlightId').html(responseText);
+                            ReplaceFlightUrl();
+                        }
+                    },
+                    error: function () {
+                        $('#specialFlightId').hide();
+                    }
+                });
+            }
+
+        }
+        //下一批7天
+        function NextSpecialFlight() {
+            index += 1;
+
+            if (index <= 4) {
+                GetSpecialFlightView();
+            }
+        }
+
+        function UpSpecialFlight() {
+            index = index - 1;
+            GetSpecialFlightView();
+
+        }
+        //设置国内机票统计链接锚点
+        function ReplaceFlightUrl() {
+            var pageid = $("#page_id").val();
+            if (pageid != "") {
+                var ctmInfo = $("#ctmInfo").val().replace("{0}", pageid);
+                $("a[data-id=ctm_gs_gnjp]").each(function (i) {
+                    var str = $(this).attr("href") + ctmInfo;
+                    $(this).attr("href", str);
+                });
+            }
+        }
+
+        var asynfunc = window.asynfunc || [];
+        asynfunc.push(GetSpecialFlightView);
+    </script>
+        
+            <!--侧边栏广告位-->
+             
+        
+            <!--侧边问答-->
+        
+            <!--侧边目的地专家-->
+    <div class="narrow_wbox c_expert" id="destexpertId" style="display: none">
+
+    </div>
+    <input type="hidden" id="txtDistrictId" value="464" />
+    <script type="text/javascript">
+
+        function GetExpertPartialTTDView() {
+
+            var district = $('#txtDistrictId').val();
+
+            $.ajax({
+                url: '/Destinationsite/TTDSecond/SharedView/PostDistrictExertView',
+                type: "POST",
+                async: true,
+                dataType: "text",
+                data: { district: district, rank: Math.random(), title: "" },
+                success: function (responseText) {
+                    if (responseText == "") {
+                        $('#destexpertId').hide();
+                    }
+                    else {
+                        $('#destexpertId').show();
+                        $('#destexpertId').html(responseText);
+                    }
+                },
+                error: function () {
+                    $('#destexpertId').hide();
+                }
+            });
+
+        }
+        var asynfunc = window.asynfunc || [];
+        asynfunc.push(GetExpertPartialTTDView);
+    </script>
+        
+            <!--侧边栏广告位-->
+        </div>
+        <div class="des_wide f_right">
+
+            <div class="normalbox">
+                    <div class="normaltitle cf" id="sightname">
+                        <h1>十堰<span>景点</span></h1>
+                    </div>
+                <div class="search_wide">
+                        <!--没有筛选时候这里不显示-->
+                    <!--没有筛选时候这里不显示 END-->
+                    <div class="city_sfind">
+                        <form action="javascript: OnSubmit();">
+                            <span class="f_left">
+                                <input id="search_sight_dg" type="checkbox" />只看可订购的景点
+                            </span>
+                            <span class="f_right">
+                                <input id="search_sight_name" type="text" placeholder="搜索景点名称" />
+                                <a class="b_blue_s" rel="nofollow" href="javascript:OnSubmit();"><span>查找</span></a>
+                            </span>
+                        </form>
+                    </div>
+                </div>
+
+<!--城市景点-->
+    <div class="list_wide_mod2">
+            <div class="list_mod2">
+                <div class="leftimg">
+                    <a target="_blank" href="/sight/wudangshan146/136382.html">
+                        <img src="https://dimg04.c-ctrip.com/images/100k0x000000lfm4e75AC_C_220_140.jpg" width="220" height="140" img-id="290412259" />
+                    </a>
+                </div>
+                <div class="rdetailbox">
+                    <dl>
+                        <dt>
+                            <i class="sight"></i>
+                            <a target="_blank" href="/sight/wudangshan146/136382.html" title="武当山">武当山</a>
+                                <s >第1名</s>
+                        </dt>
+                        <dd class="ellipsis">
+十堰市丹江口市太和街道永乐路13号                        </dd>
+                        <dd>
+                            AAAAA级景区
+                                    &emsp;
+                                    <span class="fenline">|</span>
+                                    &emsp;
+                                <span>&emsp;携程价 &nbsp;<span class="price"><i>&yen;</i>230<b class="red"></b></span></span>
+                        </dd>
+                    </dl>
+                    <ul class="r_comment">
+                        <li><a class="score" href="/sight/wudangshan146/136382.html"><strong>4.5</strong>&nbsp;分</a></li>
+                        <li><span class="starlist"><span style=width:90%;>
+                                                       <!--星星算法，内层span写入宽度，20%为一颗星,默认一颗星-->
+                                                   </span></span></li>
+                        <li><a rel="nofollow" target="_blank" href="/sight/wudangshan146/136382.html#comment" class="recomment">
+                                (3860条点评)</a></li>
+                    </ul>
+                </div>
+                    <p class="bottomcomment ellipsis open_popupbox_a">
+                        <span class="sightc"><a rel="nofollow" target="_blank" href="/members/B1C1FFEB804B41D5AB909D7E42E64133">噼里啪啦</a>点评：</span>【趣味】这个山感觉很难爬，地质属于比较陡峭的，不过沿途景色不错&#x0A;【性价比】景区管理好,&#x20;干净，消费在景区里不算高&#x0A;【景色】道教的氛围再加上这个名字，感觉古代人，会功夫才能在这里穿梭
+                    </p>
+            </div>
+            <div class="list_mod2">
+                <div class="leftimg">
+                    <a target="_blank" href="/sight/wudangshan146/8677.html">
+                        <img src="https://dimg07.c-ctrip.com/images/fd/tg/g3/M0A/61/16/CggYGVYzOe2AWeWkABJd8Fvl7Gk532_C_220_140.jpg" width="220" height="140" img-id="56250198" />
+                    </a>
+                </div>
+                <div class="rdetailbox">
+                    <dl>
+                        <dt>
+                            <i class="sight"></i>
+                            <a target="_blank" href="/sight/wudangshan146/8677.html" title="金殿">金殿</a>
+                                <s >第2名</s>
+                        </dt>
+                        <dd class="ellipsis">
+十堰市丹江口市武当山天柱峰的顶端                        </dd>
+                        <dd>
+                            
+                        </dd>
+                    </dl>
+                    <ul class="r_comment">
+                        <li><a class="score" href="/sight/wudangshan146/8677.html"><strong>4.6</strong>&nbsp;分</a></li>
+                        <li><span class="starlist"><span style=width:90%;>
+                                                       <!--星星算法，内层span写入宽度，20%为一颗星,默认一颗星-->
+                                                   </span></span></li>
+                        <li><a rel="nofollow" target="_blank" href="/sight/wudangshan146/8677.html#comment" class="recomment">
+                                (441条点评)</a></li>
+                    </ul>
+                </div>
+                    <p class="bottomcomment ellipsis open_popupbox_a">
+                        <span class="sightc"><a rel="nofollow" target="_blank" href="/members/28EF07822E9D4E45A986A9B90F226EA1">少年野老</a>点评：</span>全是人，大家还是坐缆车上下的好，上行90，下行80，我自己是上行缆车，下行靠腿走，我平时基本每周会爬二次紫金山算锻炼身体，也自认为会下山的那种，我都是一蹦三跳的下山，走金顶到南岩景区，我下了一小时四十分钟，小腿疼了两天，可想没2个半小时是爬不上去的，不要说岁数大的，平时不锻炼的小年轻也很吃力。金顶景区很小，大家不要节假日去，另收27门票也看不懂，估计是道观自己收入啊。不明白，但是你去了武当山不去金顶等于没去。
+                    </p>
+            </div>
+            <div class="list_mod2">
+                <div class="leftimg">
+                    <a target="_blank" href="/sight/wudangshan146/8684.html">
+                        <img src="https://dimg07.c-ctrip.com/images/fd/tg/g4/M06/31/69/CggYHlY4kRqAXKUaACAsalhezDk211_C_220_140.jpg" width="220" height="140" img-id="56483526" />
+                    </a>
+                </div>
+                <div class="rdetailbox">
+                    <dl>
+                        <dt>
+                            <i class="sight"></i>
+                            <a target="_blank" href="/sight/wudangshan146/8684.html" title="紫霄宫">紫霄宫</a>
+                                <s >第3名</s>
+                        </dt>
+                        <dd class="ellipsis">
+武当山景区内,天柱峰东北的展旗峰下,近乌鸦岭                        </dd>
+                        <dd>
+                            
+                        </dd>
+                    </dl>
+                    <ul class="r_comment">
+                        <li><a class="score" href="/sight/wudangshan146/8684.html"><strong>4.6</strong>&nbsp;分</a></li>
+                        <li><span class="starlist"><span style=width:90%;>
+                                                       <!--星星算法，内层span写入宽度，20%为一颗星,默认一颗星-->
+                                                   </span></span></li>
+                        <li><a rel="nofollow" target="_blank" href="/sight/wudangshan146/8684.html#comment" class="recomment">
+                                (187条点评)</a></li>
+                    </ul>
+                </div>
+                    <p class="bottomcomment ellipsis open_popupbox_a">
+                        <span class="sightc"><a rel="nofollow" target="_blank" href="/members/F4688E83E1DD42108D5164304C2FF7A3">清风明月</a>点评：</span>紫霄宫是武当山皇家庙观建筑群的核心建筑，位于武当山展旗峰下。周围山峦天然形成一把二龙戏珠的宝椅，明永乐皇帝封为“紫霄福地”。紫霄宫建筑对称布局，主要建筑有龙虎殿、碑亭、十方堂、紫霄大殿、圣文母殿。宫内主体建筑紫霄殿，是武当山最有代表性的木构建筑。宫的中部两翼为四合院式的道人居所，现仍有道人修炼。紫霄宫是来武当山旅行的必来胜地。武当山通票包含景交车票。这里是景交车的重要停靠点。
+                    </p>
+            </div>
+            <div class="list_mod2">
+                <div class="leftimg">
+                    <a target="_blank" href="/sight/wudangshan146/8696.html">
+                        <img src="https://dimg07.c-ctrip.com/images/fd/tg/g3/M09/17/41/CggYGVY4FPaAfLLxABXOM3HLsFE992_C_220_140.jpg" width="220" height="140" img-id="56461942" />
+                    </a>
+                </div>
+                <div class="rdetailbox">
+                    <dl>
+                        <dt>
+                            <i class="sight"></i>
+                            <a target="_blank" href="/sight/wudangshan146/8696.html" title="南岩宫">南岩宫</a>
+                                <s class=g_background>第4名</s>
+                        </dt>
+                        <dd class="ellipsis">
+十堰市丹江口市武当路附近武当山景区内，紫霄宫以西。                        </dd>
+                        <dd>
+                            
+                        </dd>
+                    </dl>
+                    <ul class="r_comment">
+                        <li><a class="score" href="/sight/wudangshan146/8696.html"><strong>4.6</strong>&nbsp;分</a></li>
+                        <li><span class="starlist"><span style=width:90%;>
+                                                       <!--星星算法，内层span写入宽度，20%为一颗星,默认一颗星-->
+                                                   </span></span></li>
+                        <li><a rel="nofollow" target="_blank" href="/sight/wudangshan146/8696.html#comment" class="recomment">
+                                (158条点评)</a></li>
+                    </ul>
+                </div>
+                    <p class="bottomcomment ellipsis open_popupbox_a">
+                        <span class="sightc"><a rel="nofollow" target="_blank" href="/members/F4688E83E1DD42108D5164304C2FF7A3">清风明月</a>点评：</span>南岩宫位于武当山南岩上，是道教著名宫观。明代永乐赐额“大圣南岩宫”。现仅存元建石殿、明建南天门、碑亭、两仪殿等建筑，原元君殿旧址上尚存玉皇大帝神像一尊。宫外岩北有老虎口，岩南峰峦之上有梳妆台、飞升台等古迹，是武当山36岩中最美的一处。从乌鸦岭，步行经南天门，即达南岩胜境。烧龙头香即在南岩宫。南岩宫建于绝壁之山腰，风景秀美，宏伟险峻，是游武当山的必来胜地。
+                    </p>
+            </div>
+            <div class="list_mod2">
+                <div class="leftimg">
+                    <a target="_blank" href="/sight/wudangshan146/8693.html">
+                        <img src="https://dimg07.c-ctrip.com/images/fd/tg/g4/M02/39/3E/CggYHFYx1cyAaXSaABa7tJW5iqc380_C_220_140.jpg" width="220" height="140" img-id="56200654" />
+                    </a>
+                </div>
+                <div class="rdetailbox">
+                    <dl>
+                        <dt>
+                            <i class="sight"></i>
+                            <a target="_blank" href="/sight/wudangshan146/8693.html" title="太子坡">太子坡</a>
+                                <s class=g_background>第5名</s>
+                        </dt>
+                        <dd class="ellipsis">
+十堰市丹江口市武当路附近武当山景区内                        </dd>
+                        <dd>
+                            
+                        </dd>
+                    </dl>
+                    <ul class="r_comment">
+                        <li><a class="score" href="/sight/wudangshan146/8693.html"><strong>4.4</strong>&nbsp;分</a></li>
+                        <li><span class="starlist"><span style=width:90%;>
+                                                       <!--星星算法，内层span写入宽度，20%为一颗星,默认一颗星-->
+                                                   </span></span></li>
+                        <li><a rel="nofollow" target="_blank" href="/sight/wudangshan146/8693.html#comment" class="recomment">
+                                (175条点评)</a></li>
+                    </ul>
+                </div>
+                    <p class="bottomcomment ellipsis open_popupbox_a">
+                        <span class="sightc"><a rel="nofollow" target="_blank" href="/members/6E559A5263A84484BF4739CEA1E95DCF">nionio</a>点评：</span>太子坡位于武当山风景区山腰上，是从武当山门坐观光车上山的第一站，到琼台和南岩的观光车都从这出发，也是下山必经之地，因此既可放在第一站游览，也可放在下山前最后一站。太子坡又名复真观，被建筑学家誉为“利用陡坡开展建筑的经典之作”，是武当古建筑群中的一个较大单元，主要有九曲黄河墙、祖师殿、太子殿、回龙观、五云楼等建筑，包含在武当山大门票140元内。游览时间1小时左右，如上午上山建议先去太子破和逍遥谷，观光车直达，可将包袱存在太子破的服务点，存包5元，游览完后再去住宿地。九曲黄河墙是道家崇尚自然、天人合一理念的体现，拍照时将周边山色与墙体融合更为好看。五云楼里的一柱十二梁是难得的建筑奇观，不可错过。
+                    </p>
+            </div>
+    <div class="sight_commercial">
+        <ul>
+                <li>
+                    <a class="c_img" href="http://hotels.ctrip.com/hotel/Shiyan452/a1?checkin=2019-06-30" target="_blank">
+                        <img src="https://dimg04.c-ctrip.com/images/200213000000ts2h9ABBA_R_300_225.jpg" width="205">
+                        <p><span class="title">特价折扣酒店</span><span class="opacity_text">347家</span><span class="f_line"></span><span class="price">¥<em>128</em>起</span></p>
+                    </a>
+                </li>
+                <li>
+                    <a class="c_img" href="http://hotels.ctrip.com/hotel/Shiyan452?checkin=2019-06-30" target="_blank">
+                        <img src="https://dimg04.c-ctrip.com/images/200d14000000vmpbw8923_R_300_225.jpg" width="205">
+                        <p><span class="title">入住最多的酒店</span><span class="opacity_text">358家</span><span class="f_line"></span><span class="price">¥<em>139</em>起</span></p>
+                    </a>
+                </li>
+                <li>
+                    <a class="c_img" href="http://hotels.ctrip.com/hotel/Shiyan452/star4star5?checkin=2019-06-30t1b0" target="_blank">
+                        <img src="https://dimg04.c-ctrip.com/images/200e0k000000bvtxn46C5_R_300_225.jpg" width="205">
+                        <p><span class="title">高端豪华酒店</span><span class="opacity_text">15家</span><span class="f_line"></span><span class="price">¥<em>289</em>起</span></p>
+                    </a>
+                </li>
+                <li>
+                    <a class="c_img" href="http://hotels.ctrip.com/hotel/Shiyan452/star3star4star5t3b0" target="_blank">
+                        <img src="https://dimg04.c-ctrip.com/images/280312000000rw07g2698_R_300_225.jpg" width="205">
+                        <p><span class="title">最佳口碑酒店</span><span class="opacity_text">47家</span><span class="f_line"></span><span class="price">¥<em>136</em>起</span></p>
+                    </a>
+                </li>
+        </ul>
+    </div>
+            <div class="list_mod2">
+                <div class="leftimg">
+                    <a target="_blank" href="/sight/wudangshan146/51066.html">
+                        <img src="https://dimg04.c-ctrip.com/images/10070u000000jnotk91D5_C_220_140.jpg" width="220" height="140" img-id="275515163" />
+                    </a>
+                </div>
+                <div class="rdetailbox">
+                    <dl>
+                        <dt>
+                            <i class="sight"></i>
+                            <a target="_blank" href="/sight/wudangshan146/51066.html" title="逍遥谷">逍遥谷</a>
+                                <s class=g_background>第6名</s>
+                        </dt>
+                        <dd class="ellipsis">
+十堰市丹江口市武当山景区内                        </dd>
+                        <dd>
+                            
+                        </dd>
+                    </dl>
+                    <ul class="r_comment">
+                        <li><a class="score" href="/sight/wudangshan146/51066.html"><strong>4.2</strong>&nbsp;分</a></li>
+                        <li><span class="starlist"><span style=width:80%;>
+                                                       <!--星星算法，内层span写入宽度，20%为一颗星,默认一颗星-->
+                                                   </span></span></li>
+                        <li><a rel="nofollow" target="_blank" href="/sight/wudangshan146/51066.html#comment" class="recomment">
+                                (37条点评)</a></li>
+                    </ul>
+                </div>
+                    <p class="bottomcomment ellipsis open_popupbox_a">
+                        <span class="sightc"><a rel="nofollow" target="_blank" href="/members/F4688E83E1DD42108D5164304C2FF7A3">清风明月</a>点评：</span>武当山逍遥谷俗称猕猴谷，是武当山的一个自然景观。谷中动物种类繁多，湖水清澈见底，有很多猕猴时常出没丛林，有“金猴跳涧”、“猕猴献桃”等奇景，是武当山“动八景”中最有代表性的景点。春天满山谷的杜鹃花盛开，特别美！
+                    </p>
+            </div>
+            <div class="list_mod2">
+                <div class="leftimg">
+                    <a target="_blank" href="/sight/wudangshan146/8679.html">
+                        <img src="https://dimg02.c-ctrip.com/images/fd/tg/g4/M06/21/9F/CggYHFY4FMCAFgBfABFKKudRtBU249_C_220_140.jpg" width="220" height="140" img-id="56461457" />
+                    </a>
+                </div>
+                <div class="rdetailbox">
+                    <dl>
+                        <dt>
+                            <i class="sight"></i>
+                            <a target="_blank" href="/sight/wudangshan146/8679.html" title="龙头香">龙头香</a>
+                                <s class=g_background>第7名</s>
+                        </dt>
+                        <dd class="ellipsis">
+十堰市武当山景区                        </dd>
+                        <dd>
+                            
+                        </dd>
+                    </dl>
+                    <ul class="r_comment">
+                        <li><a class="score" href="/sight/wudangshan146/8679.html"><strong>4.6</strong>&nbsp;分</a></li>
+                        <li><span class="starlist"><span style=width:90%;>
+                                                       <!--星星算法，内层span写入宽度，20%为一颗星,默认一颗星-->
+                                                   </span></span></li>
+                        <li><a rel="nofollow" target="_blank" href="/sight/wudangshan146/8679.html#comment" class="recomment">
+                                (67条点评)</a></li>
+                    </ul>
+                </div>
+                    <p class="bottomcomment ellipsis open_popupbox_a">
+                        <span class="sightc"><a rel="nofollow" target="_blank" href="/members/A87C0CC590C647778733E5974E10B82A">yoyolove777888</a>点评：</span>只能先四星，因为现在没啥风景，树是秃的，不过爬山确实是一件非常有趣的事情，又能锻炼身体又能出一身大汗排排毒，龙头香依旧被锁着不能上香，古人爬出去上香的勇气我非常的羡慕，心中的虔诚。
+                    </p>
+            </div>
+            <div class="list_mod2">
+                <div class="leftimg">
+                    <a target="_blank" href="/sight/wudangshan146/8691.html">
+                        <img src="https://dimg02.c-ctrip.com/images/100p090000003sxi9C818_C_220_140.jpg" width="220" height="140" img-id="83644369" />
+                    </a>
+                </div>
+                <div class="rdetailbox">
+                    <dl>
+                        <dt>
+                            <i class="sight"></i>
+                            <a target="_blank" href="/sight/wudangshan146/8691.html" title="玉虚宫">玉虚宫</a>
+                                <s class=g_background>第8名</s>
+                        </dt>
+                        <dd class="ellipsis">
+十堰市丹江口市武当山镇                        </dd>
+                        <dd>
+                            
+                        </dd>
+                    </dl>
+                    <ul class="r_comment">
+                        <li><a class="score" href="/sight/wudangshan146/8691.html"><strong>4.4</strong>&nbsp;分</a></li>
+                        <li><span class="starlist"><span style=width:90%;>
+                                                       <!--星星算法，内层span写入宽度，20%为一颗星,默认一颗星-->
+                                                   </span></span></li>
+                        <li><a rel="nofollow" target="_blank" href="/sight/wudangshan146/8691.html#comment" class="recomment">
+                                (77条点评)</a></li>
+                    </ul>
+                </div>
+                    <p class="bottomcomment ellipsis open_popupbox_a">
+                        <span class="sightc"><a rel="nofollow" target="_blank" href="/members/F4688E83E1DD42108D5164304C2FF7A3">清风明月</a>点评：</span>玉虚宫是武当山建筑群中最大的宫殿之一，位于老营的南山脚下，玄岳门西约4公里。现存建筑及遗址主要有2道长1036米的宫墙、两座碑亭、里乐城的五座殿基和清代重建的父母殿、云堂以及东天门、西天门、北天门遗址。来这里的一般是深度游的旅行者。
+                    </p>
+            </div>
+            <div class="list_mod2">
+                <div class="leftimg">
+                    <a target="_blank" href="/sight/wudangshan146/136422.html">
+                        <img src="https://dimg01.c-ctrip.com/images/tg/897/650/671/d7b22484f23b43f5a9439b00b7ae6fea_C_220_140.jpg" width="220" height="140" img-id="6007488" />
+                    </a>
+                </div>
+                <div class="rdetailbox">
+                    <dl>
+                        <dt>
+                            <i class="sight"></i>
+                            <a target="_blank" href="/sight/wudangshan146/136422.html" title="武当太极湖">武当太极湖</a>
+                                <s class=g_background>第9名</s>
+                        </dt>
+                        <dd class="ellipsis">
+十堰丹江口市武当旅游经济开发特区永乐路14号武当山风景区内316国道玄岳码头                        </dd>
+                        <dd>
+                            
+                                <span>&emsp;携程价 &nbsp;<span class="price"><i>&yen;</i>66<b class="red"></b></span></span>
+                        </dd>
+                    </dl>
+                    <ul class="r_comment">
+                        <li><a class="score" href="/sight/wudangshan146/136422.html"><strong>4.4</strong>&nbsp;分</a></li>
+                        <li><span class="starlist"><span style=width:90%;>
+                                                       <!--星星算法，内层span写入宽度，20%为一颗星,默认一颗星-->
+                                                   </span></span></li>
+                        <li><a rel="nofollow" target="_blank" href="/sight/wudangshan146/136422.html#comment" class="recomment">
+                                (95条点评)</a></li>
+                    </ul>
+                </div>
+                    <p class="bottomcomment ellipsis open_popupbox_a">
+                        <span class="sightc"><a rel="nofollow" target="_blank" href="/members/33A51C08884548CA8E5C4AD3822724E3">M30****5766</a>点评：</span>干净卫生，空气好，天然氧吧，就是单调，多点游玩热趣就好了。
+                    </p>
+            </div>
+            <div class="list_mod2">
+                <div class="leftimg">
+                    <a target="_blank" href="/sight/fangxian2710/141339.html">
+                        <img src="https://dimg05.c-ctrip.com/images/tg/111/406/865/86343ffa3e4a46f083594ef30a41355b_C_220_140.jpg" width="220" height="140" img-id="14250884" />
+                    </a>
+                </div>
+                <div class="rdetailbox">
+                    <dl>
+                        <dt>
+                            <i class="sight"></i>
+                            <a target="_blank" href="/sight/fangxian2710/141339.html" title="野人谷">野人谷</a>
+                                <s class=g_background>第10名</s>
+                        </dt>
+                        <dd class="ellipsis">
+十堰市房县城南30公里处桥上乡(近209国道)                        </dd>
+                        <dd>
+                            
+                                <span>&emsp;携程价 &nbsp;<span class="price"><i>&yen;</i>75<b class="red"></b></span></span>
+                        </dd>
+                    </dl>
+                    <ul class="r_comment">
+                        <li><a class="score" href="/sight/fangxian2710/141339.html"><strong>4.4</strong>&nbsp;分</a></li>
+                        <li><span class="starlist"><span style=width:90%;>
+                                                       <!--星星算法，内层span写入宽度，20%为一颗星,默认一颗星-->
+                                                   </span></span></li>
+                        <li><a rel="nofollow" target="_blank" href="/sight/fangxian2710/141339.html#comment" class="recomment">
+                                (72条点评)</a></li>
+                    </ul>
+                </div>
+                    <p class="bottomcomment ellipsis open_popupbox_a">
+                        <span class="sightc"><a rel="nofollow" target="_blank" href="/members/271ECB967E50452EAA812D18EF364FBD">_WeCh****272406</a>点评：</span>和祖国大地的峡谷风景一样，有山有水，还干净人少，周边一日游还凑合，就是20元的景区车费有的不值，要知道门票80元也不便宜。
+                    </p>
+            </div>
+            <div class="list_mod2">
+                <div class="leftimg">
+                    <a target="_blank" href="/sight/wudangshan146/51033.html">
+                        <img src="https://dimg07.c-ctrip.com/images/100m0u000000jgdq85F3A_C_220_140.jpg" width="220" height="140" img-id="275515350" />
+                    </a>
+                </div>
+                <div class="rdetailbox">
+                    <dl>
+                        <dt>
+                            <i class="sight"></i>
+                            <a target="_blank" href="/sight/wudangshan146/51033.html" title="太和宫">太和宫</a>
+                                <s class=g_background>第11名</s>
+                        </dt>
+                        <dd class="ellipsis">
+十堰市丹江口市武当路附近湖北武当山国家地质公园金顶地质遗迹园区太和宫景区内                        </dd>
+                        <dd>
+                            
+                        </dd>
+                    </dl>
+                    <ul class="r_comment">
+                        <li><a class="score" href="/sight/wudangshan146/51033.html"><strong>4.6</strong>&nbsp;分</a></li>
+                        <li><span class="starlist"><span style=width:90%;>
+                                                       <!--星星算法，内层span写入宽度，20%为一颗星,默认一颗星-->
+                                                   </span></span></li>
+                        <li><a rel="nofollow" target="_blank" href="/sight/wudangshan146/51033.html#comment" class="recomment">
+                                (64条点评)</a></li>
+                    </ul>
+                </div>
+                    <p class="bottomcomment ellipsis open_popupbox_a">
+                        <span class="sightc"><a rel="nofollow" target="_blank" href="/members/A87C0CC590C647778733E5974E10B82A">yoyolove777888</a>点评：</span>太和宫是金顶上的宫，进去就是售票点，27元就是在那里付，只能说太商业化了，已经235元门票付了，金殿和紫霄宫还要额外再付费，有点失去去武当问道祈福的本意了，似乎只要有钱就行了，什么信仰虔诚都没必要。
+                    </p>
+            </div>
+            <div class="list_mod2">
+                <div class="leftimg">
+                    <a target="_blank" href="/sight/wudangshan146/17916.html">
+                        <img src="https://dimg03.c-ctrip.com/images/fd/tg/g4/M06/21/C2/CggYHFY4FaCAA3HRACLcGm9Iu4s667_C_220_140.jpg" width="220" height="140" img-id="56461314" />
+                    </a>
+                </div>
+                <div class="rdetailbox">
+                    <dl>
+                        <dt>
+                            <i class="sight"></i>
+                            <a target="_blank" href="/sight/wudangshan146/17916.html" title="黄龙洞">黄龙洞</a>
+                                <s class=g_background>第12名</s>
+                        </dt>
+                        <dd class="ellipsis">
+十堰市丹江口市武当山风景区内                        </dd>
+                        <dd>
+                            
+                        </dd>
+                    </dl>
+                    <ul class="r_comment">
+                        <li><a class="score" href="/sight/wudangshan146/17916.html"><strong>4.2</strong>&nbsp;分</a></li>
+                        <li><span class="starlist"><span style=width:80%;>
+                                                       <!--星星算法，内层span写入宽度，20%为一颗星,默认一颗星-->
+                                                   </span></span></li>
+                        <li><a rel="nofollow" target="_blank" href="/sight/wudangshan146/17916.html#comment" class="recomment">
+                                (29条点评)</a></li>
+                    </ul>
+                </div>
+                    <p class="bottomcomment ellipsis open_popupbox_a">
+                        <span class="sightc"><a rel="nofollow" target="_blank" href="/members/B2D11A602EBF49A8A930F54BB904867D">独裁者</a>点评：</span>从小道观继续拾级而上，一会便到了黄龙洞。黄龙洞，位于武当古神道通往金顶的路上，在紫盖峰悬崖之中。洞内空气干而不燥，润而不湿，四季清幽凉爽，是历代修炼之士向往之地。黄龙洞实际上是一个天然的岩屋，经历代修建，这里有了黄龙殿、真武阁、药王殿、神泉亭等建筑。黄龙洞里有一泓泉水，四季不竭。传说有一条黄龙在此得道升天，黄龙为谢此地的养育之恩，留下一颗仙丹。据说仙丹使这里的水清洌甘甜，能治愈百病。我们过去的时候真的看到有人在拿瓶子装里面的泉水，估计是留作纪念吧。
+                    </p>
+            </div>
+            <div class="list_mod2">
+                <div class="leftimg">
+                    <a target="_blank" href="/sight/wudangshan146/8778.html">
+                        <img src="https://dimg03.c-ctrip.com/images/fd/tg/g4/M03/21/AE/CggYHFY4FRmATZ6kABb8mrSUHjQ870_C_220_140.jpg" width="220" height="140" img-id="56461850" />
+                    </a>
+                </div>
+                <div class="rdetailbox">
+                    <dl>
+                        <dt>
+                            <i class="sight"></i>
+                            <a target="_blank" href="/sight/wudangshan146/8778.html" title="琼台三观">琼台三观</a>
+                                <s class=g_background>第13名</s>
+                        </dt>
+                        <dd class="ellipsis">
+十堰市丹江口市武当山景区内，天柱峰东南麓约8公里处                        </dd>
+                        <dd>
+                            
+                        </dd>
+                    </dl>
+                    <ul class="r_comment">
+                        <li><a class="score" href="/sight/wudangshan146/8778.html"><strong>4.4</strong>&nbsp;分</a></li>
+                        <li><span class="starlist"><span style=width:90%;>
+                                                       <!--星星算法，内层span写入宽度，20%为一颗星,默认一颗星-->
+                                                   </span></span></li>
+                        <li><a rel="nofollow" target="_blank" href="/sight/wudangshan146/8778.html#comment" class="recomment">
+                                (38条点评)</a></li>
+                    </ul>
+                </div>
+                    <p class="bottomcomment ellipsis open_popupbox_a">
+                        <span class="sightc"><a rel="nofollow" target="_blank" href="/members/F4688E83E1DD42108D5164304C2FF7A3">清风明月</a>点评：</span>琼台三观就是位于武当山天柱峰东南麓大约8公里处琼台上的三座道观。上观今仅存遗址，尚有石雕玄武像和明雕，中观存石殿、正殿、配房14间，下观存正殿、配殿等13间。琼台三观周围的风景很美。上金殿的缆车下站就在琼台。值得一游！
+                    </p>
+            </div>
+            <div class="list_mod2">
+                <div class="leftimg">
+                    <a target="_blank" href="/sight/wudangshan146/8713.html">
+                        <img src="https://dimg07.c-ctrip.com/images/tg/209/174/314/c50ea3513016484c9da9cd484c6cc67c_C_220_140.jpg" width="220" height="140" img-id="28646" />
+                    </a>
+                </div>
+                <div class="rdetailbox">
+                    <dl>
+                        <dt>
+                            <i class="sight"></i>
+                            <a target="_blank" href="/sight/wudangshan146/8713.html" title="元和观">元和观</a>
+                                <s class=g_background>第14名</s>
+                        </dt>
+                        <dd class="ellipsis">
+武当山脚下，遇真宫和老营镇（武当山镇内）之间                        </dd>
+                        <dd>
+                            
+                        </dd>
+                    </dl>
+                    <ul class="r_comment">
+                        <li><a class="score" href="/sight/wudangshan146/8713.html"><strong>4.1</strong>&nbsp;分</a></li>
+                        <li><span class="starlist"><span style=width:80%;>
+                                                       <!--星星算法，内层span写入宽度，20%为一颗星,默认一颗星-->
+                                                   </span></span></li>
+                        <li><a rel="nofollow" target="_blank" href="/sight/wudangshan146/8713.html#comment" class="recomment">
+                                (17条点评)</a></li>
+                    </ul>
+                </div>
+                    <p class="bottomcomment ellipsis open_popupbox_a">
+                        <span class="sightc"><a rel="nofollow" target="_blank" href="/members/7ADE76F3394A4B098D8E591BA06DEF45">当地向导逍遥遊</a>点评：</span>在武当山脚下的元和观村的山坡上，十分特别，是过去惩处犯戒道士的监狱，现在已经不是宗教场所了，但保存的建筑依然古朴，特别是塑像别具一格。
+                    </p>
+            </div>
+            <div class="list_mod2">
+                <div class="leftimg">
+                    <a target="_blank" href="/sight/wudangshan146/8781.html">
+                        <img src="https://dimg08.c-ctrip.com/images/100v0g00000086aq4AF33_C_220_140.jpg" width="220" height="140" img-id="117346799" />
+                    </a>
+                </div>
+                <div class="rdetailbox">
+                    <dl>
+                        <dt>
+                            <i class="sight"></i>
+                            <a target="_blank" href="/sight/wudangshan146/8781.html" title="太子岩">太子岩</a>
+                                <s class=g_background>第15名</s>
+                        </dt>
+                        <dd class="ellipsis">
+十堰市丹江口市武当路附近湖北武当山国家地质公园内，紫霄宫的东北部                        </dd>
+                        <dd>
+                            
+                        </dd>
+                    </dl>
+                    <ul class="r_comment">
+                        <li><a class="score" href="/sight/wudangshan146/8781.html"><strong>4.1</strong>&nbsp;分</a></li>
+                        <li><span class="starlist"><span style=width:80%;>
+                                                       <!--星星算法，内层span写入宽度，20%为一颗星,默认一颗星-->
+                                                   </span></span></li>
+                        <li><a rel="nofollow" target="_blank" href="/sight/wudangshan146/8781.html#comment" class="recomment">
+                                (18条点评)</a></li>
+                    </ul>
+                </div>
+                    <p class="bottomcomment ellipsis open_popupbox_a">
+                        <span class="sightc"><a rel="nofollow" target="_blank" href="/members/7ADE76F3394A4B098D8E591BA06DEF45">当地向导逍遥遊</a>点评：</span>从紫霄宫后面绕过去，沿着小路攀爬，十多分钟就可到达这个隐于山林间的岩庙，这里是真武大帝年轻时修炼的地方，现在这里住着一位老修行贾爷，在新“话说长江”纪录片中专访过他，贾爷很热情、很健谈，是一位真正的修行者。
+                    </p>
+            </div>
+        <div class="ttd_pager cf"><p>1-15 / 295条</p><div class="pager_v1"><a class="prevpage disabled">上一页</a><a class="current">1</a><a href="/sight/shiyan464/s0-p2.html">2</a><a href="/sight/shiyan464/s0-p3.html">3</a><a href="/sight/shiyan464/s0-p4.html">4</a><a href="/sight/shiyan464/s0-p5.html">5</a><a  class="nextpage" href="/sight/shiyan464/s0-p2.html">下一页</a><span>到 <input id="gopagetext" value="" type="text"> 页 / <b class="numpage">20</b>页</span><a class="gopage" href="javascript:;">确定</a></div></div>
+    </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+<div class="footerseo"><div class="footerseo_con"><div class="cf seo_title"><h2 class="seotitle1">旅游攻略导航</h2><div class="seo1title_r"><h3>当季热点：</h3><a href="http://you.ctrip.com/place/hongkong38.html" target="_blank">香港</a><a href="http://you.ctrip.com/place/shanghai2.html" target="_blank">上海</a><a href="http://you.ctrip.com/place/shenzhen26.html" target="_blank">深圳</a><a href="http://you.ctrip.com/place/chongqing158.html" target="_blank">重庆</a><a href="http://you.ctrip.com/place/sanya61.html" target="_blank">三亚</a><a href="http://you.ctrip.com/place/xian7.html" target="_blank">西安</a><a href="http://you.ctrip.com/place/xiamen21.html" target="_blank">厦门</a><a href="http://you.ctrip.com/place/nanjing9.html" target="_blank">南京</a><a href="http://you.ctrip.com/place/wuhan145.html" target="_blank">武汉</a><a href="http://you.ctrip.com/place/kunming29.html" target="_blank">昆明</a><a href="http://you.ctrip.com/place/qingdao5.html" target="_blank">青岛</a><a href="http://you.ctrip.com/place/tianjin154.html" target="_blank">天津</a><a href="http://you.ctrip.com/place/zhengzhou157.html" target="_blank">郑州</a><a href="http://you.ctrip.com/place/shenyang155.html" target="_blank">沈阳</a><a href="http://you.ctrip.com/place/wulumuqi117.html" target="_blank">乌鲁木齐</a></div></div><p>十堰旅游攻略指南? 携程攻略社区! 靠谱的旅游攻略平台，最佳的十堰自助游、自由行、自驾游、跟团旅线路，海量十堰旅游景点图片、游记、交通、美食、购物、住宿、娱乐、行程、指南等旅游攻略信息，了解更多十堰旅游信息就来携程旅游攻略。</p></div><div class="footerseo_con seojs2line"> <div class="cf seo_title"> <h3 class="seotitle2"> 十堰旅游快速入口</h3> <a class="more" href="javascript:;">+更多</a> </div> <div class="seojscon"><ul class="cf"><li><a href="/place/shiyan464.html" target="_blank">十堰旅游攻略</a></li><li><a href="/summary/shiyan464.html" target="_blank">十堰旅游介绍</a></li><li><a href="/map/shiyan464.html" target="_blank">十堰旅游地图</a></li><li><a href="/photos/shiyan464/r464.html" target="_blank">十堰旅游图片</a></li><li><a href="/traffic/shiyan464.html" target="_blank">十堰交通线路</a></li><li><a href="/weather/shiyan464.html" target="_blank">十堰天气预报</a></li><li><a href="/travels/shiyan464.html" target="_blank">十堰旅行游记</a></li><li><a href="/asks/shiyan464.html" target="_blank">十堰旅游问答</a></li><li><a href="/sight/shiyan464.html" target="_blank">十堰景点推荐</a></li><li><a href="/zhusu/shiyan464.html" target="_blank">十堰酒店预订</a></li><li><a href="/restaurant/shiyan464.html" target="_blank">十堰特色美食</a></li><li><a href="/shopping/shiyan464.html" target="_blank">十堰购物攻略</a></li><li><a href="/resort/shiyan464.html" target="_blank">十堰娱乐体验</a></li><li><a href="/journeys/shiyan464.html" target="_blank">十堰行程推荐</a></li><li><a href="http://hotels.ctrip.com/hotel/shiyan452" target="_blank">十堰酒店推荐</a></li><li><a href="http://inn.ctrip.com/inn/shiyan452" target="_blank">十堰客栈预订</a></li><li><a href="http://vacations.ctrip.com/tours/d-shiyan-464" target="_blank">十堰旅游</a></li><li><a href="/events/shiyan464c464-p1" target="_blank">十堰结伴旅游</a></li><li><a href="/guides/shiyan464.html" target="_blank">十堰攻略下载</a></li><li><a href="http://you.ctrip.com/badge/shiyan464.html" target="_blank">十堰旅游印象</a></li><li><a href="http://top.ctrip.com/baike/shiyan464.html" target="_blank">十堰自助游攻略</a></li><li><a href="http://you.ctrip.com/around/shiyan/whole/" target="_blank">十堰周末旅游</a></li><li><a href="http://trains.ctrip.com/TrainBooking/Shiyan/" target="_blank">十堰火车票查询</a></li><li><a href="https://m.ctrip.com/html5/you/article/list-c5-d464.html" target="_blank">十堰游记</a></li><li><a href="https://m.ctrip.com/html5/you/article/list-c7-d464.html" target="_blank">十堰旅行资讯</a></li></ul><h4 class="seotitle3">湖北旅游攻略导航：</h4><ul class="cf"><li><a href="/place/shiyan464.html" target="_blank">十堰</a></li></ul><h4 class="seotitle3">十堰移动端旅游快速入口：</h4><ul class="cf"><li><a href="https://gs.ctrip.com/html5/you/place/464.html" target="_blank">十堰旅游攻略</a></li><li><a href="https://gs.ctrip.com/html5/you/summary/464.html" target="_blank">十堰攻略指南</a></li><li><a href="https://gs.ctrip.com/html5/you/traffic/464.html" target="_blank">十堰交通攻略</a></li><li><a href="https://gs.ctrip.com/html5/you/photos/shiyan464/r464.html" target="_blank">十堰风景图片</a></li><li><a href="https://gs.ctrip.com/html5/you/situs/464.html" target="_blank">十堰分类导航</a></li><li><a href="https://gs.ctrip.com/html5/you/weather/464.html" target="_blank">十堰天气预报</a></li><li><a href="https://gs.ctrip.com/html5/you/sight/464.html" target="_blank">十堰景点推荐</a></li><li><a href="https://gs.ctrip.com/html5/you/foods/464.html" target="_blank">十堰美食攻略</a></li><li><a href="https://gs.ctrip.com/html5/you/hotels/shiyan464/hotkey-list.html" target="_blank">十堰酒店预订</a></li><li><a href="https://gs.ctrip.com/html5/you/shops/464-dist-1.html" target="_blank">十堰购物攻略</a></li><li><a href="https://gs.ctrip.com/html5/you/resort/464.html" target="_blank">十堰娱乐体验</a></li><li><a href="https://gs.ctrip.com/html5/you/journeys/464.html" target="_blank">十堰行程安排</a></li><li><a href="https://gs.ctrip.com/html5/you/guides/464.html" target="_blank">十堰口袋攻略</a></li><li><a href="https://gs.ctrip.com/html5/you/travels/464.html" target="_blank">十堰旅行游记</a></li><li><a href="https://gs.ctrip.com/html5/you/asks/464.html" target="_blank">十堰游玩咨询</a></li><li><a href="https://gs.ctrip.com/html5/you/sitemap/foods/464/p1.html" target="_blank">十堰美食地图</a></li><li><a href="https://gs.ctrip.com/html5/you/juhe/464/d1.html" target="_blank">十堰一日游</a></li><li><a href="https://gs.ctrip.com/html5/you/juhe/464/d2.html" target="_blank">十堰二日游</a></li><li><a href="https://gs.ctrip.com/html5/you/juhe/464/d3.html" target="_blank">十堰三日游</a></li><li><a href="https://gs.ctrip.com/html5/you/juhe/464/d4.html" target="_blank">十堰四日游</a></li><li><a href="https://gs.ctrip.com/html5/you/juhe/464/d5.html" target="_blank">十堰五日游</a></li><li><a href="https://gs.ctrip.com/html5/you/juhe/464/d6.html" target="_blank">十堰六日游</a></li><li><a href="https://gs.ctrip.com/html5/you/juhe/464/d7.html" target="_blank">十堰七日游</a></li></ul></div> </div><div class="footerseo_con seojs6line1blank"> <div class="cf seo_title"> <h3 class="seotitle2"> 十堰旅游推荐</h3> <a class="more" href="javascript:;">+更多</a> </div> <div class="seojscon"><ul class="cf seomb10"><li><a href="http://you.ctrip.com/sight/shiyan464/1682306.html" target="_blank">紫薇岛生态旅游度假区</a></li><li><a href="http://you.ctrip.com/sight/shiyan464/8690.html" target="_blank">遇真宫</a></li><li><a href="http://you.ctrip.com/sight/shiyan464/140676.html" target="_blank">五龙河风景区</a></li><li><a href="http://you.ctrip.com/sight/shiyan464/8692.html" target="_blank">磨针井</a></li><li><a href="http://you.ctrip.com/sight/shiyan464/142058.html" target="_blank">丹江太平洋</a></li><li><a href="http://you.ctrip.com/sight/shiyan464/139946.html" target="_blank">龙潭河</a></li><li><a href="http://you.ctrip.com/sight/shiyan464/136382.html" target="_blank">武当山</a></li><li><a href="http://you.ctrip.com/sight/shiyan464/142059.html" target="_blank">虎啸滩</a></li><li><a href="http://you.ctrip.com/sight/shiyan464/141339.html" target="_blank">野人谷</a></li><li><a href="http://you.ctrip.com/sight/shiyan464/51138.html" target="_blank">雷神洞</a></li><li><a href="http://you.ctrip.com/sight/shiyan464/51069.html" target="_blank">三道天门</a></li><li><a href="http://you.ctrip.com/sight/shiyan464/17916.html" target="_blank">黄龙洞</a></li><li><a href="http://you.ctrip.com/sight/shiyan464/51067.html" target="_blank">榔梅祠</a></li><li><a href="http://you.ctrip.com/sight/shiyan464/8684.html" target="_blank">紫霄宫</a></li><li><a href="http://you.ctrip.com/sight/shiyan464/140640.html" target="_blank">太极峡风景区</a></li><li><a href="http://you.ctrip.com/sight/shiyan464/136421.html" target="_blank">太极剧场·梦幻武当</a></li><li><a href="http://you.ctrip.com/sight/shiyan464/8693.html" target="_blank">太子坡</a></li><li><a href="http://you.ctrip.com/sight/shiyan464/8778.html" target="_blank">琼台三观</a></li><li><a href="http://you.ctrip.com/sight/shiyan464/8781.html" target="_blank">太子岩</a></li><li><a href="http://you.ctrip.com/sight/shiyan464/8713.html" target="_blank">元和观</a></li><li><a href="http://you.ctrip.com/sight/shiyan464/20183.html" target="_blank">武商欧悦真冰场</a></li><li><a href="http://you.ctrip.com/sight/shiyan464/141459.html" target="_blank">龙泉寺</a></li><li><a href="http://you.ctrip.com/sight/shiyan464/140641.html" target="_blank">武当峡谷第一漂</a></li><li><a href="http://you.ctrip.com/sight/shiyan464/8696.html" target="_blank">南岩宫</a></li><li><a href="http://you.ctrip.com/sight/shiyan464/140898.html" target="_blank">郧县九龙瀑</a></li><li><a href="http://you.ctrip.com/sight/shiyan464/17919.html" target="_blank">飞升崖</a></li><li><a href="http://you.ctrip.com/sight/shiyan464/143301.html" target="_blank">黄龙滩旅游度假区</a></li><li><a href="http://you.ctrip.com/sight/shiyan464/8691.html" target="_blank">玉虚宫</a></li><li><a href="http://you.ctrip.com/sight/shiyan464/51068.html" target="_blank">朝天宫</a></li><li><a href="http://you.ctrip.com/sight/shiyan464/8779.html" target="_blank">五龙宫</a></li></ul><ul class="cf"><li><a href="http://you.ctrip.com/food/shiyan464/13474404.html" target="_blank">春喜砂锅店</a></li><li><a href="http://you.ctrip.com/food/shiyan464/13444032.html" target="_blank">农家菜馆</a></li><li><a href="http://you.ctrip.com/food/shiyan464/13473240.html" target="_blank">尚品菜馆</a></li><li><a href="http://you.ctrip.com/food/shiyan464/13450038.html" target="_blank">杨国福麻辣烫</a></li><li><a href="http://you.ctrip.com/food/shiyan464/13464770.html" target="_blank">好食客</a></li><li><a href="http://you.ctrip.com/food/shiyan464/13440118.html" target="_blank">牛翠川味小吃</a></li><li><a href="http://you.ctrip.com/food/shiyan464/13437696.html" target="_blank">宫廷桃酥王</a></li><li><a href="http://you.ctrip.com/food/shiyan464/13444476.html" target="_blank">安庆馄饨</a></li><li><a href="http://you.ctrip.com/food/shiyan464/13457839.html" target="_blank">九九鸭(三堰店)</a></li><li><a href="http://you.ctrip.com/food/shiyan464/4926246.html" target="_blank">谭二拉面店</a></li><li><a href="http://you.ctrip.com/food/shiyan464/13460668.html" target="_blank">卧龙饭店 卧龙御厨</a></li><li><a href="http://you.ctrip.com/food/shiyan464/13440251.html" target="_blank">熊氏鸡汤馆</a></li><li><a href="http://you.ctrip.com/food/shiyan464/7809275.html" target="_blank">三千里韩国料理(东岳路店)</a></li><li><a href="http://you.ctrip.com/food/shiyan464/13492331.html" target="_blank">凯旋楼</a></li><li><a href="http://you.ctrip.com/food/shiyan464/13479445.html" target="_blank">早上好正宗炸酱面</a></li><li><a href="http://you.ctrip.com/food/shiyan464/13445798.html" target="_blank">蒸蒸日上包子店</a></li><li><a href="http://you.ctrip.com/food/shiyan464/13495486.html" target="_blank">正川帮酒楼</a></li><li><a href="http://you.ctrip.com/food/shiyan464/13450062.html" target="_blank">陈记滋补清汤牛肉拉面</a></li><li><a href="http://you.ctrip.com/food/shiyan464/4926266.html" target="_blank">谭家鸭唇王(老龄委院店)</a></li><li><a href="http://you.ctrip.com/food/shiyan464/13478861.html" target="_blank">源味小吃</a></li><li><a href="http://you.ctrip.com/food/shiyan464/13446107.html" target="_blank">赵记卤香王</a></li><li><a href="http://you.ctrip.com/food/shiyan464/13484251.html" target="_blank">醉香聚石锅鱼</a></li><li><a href="http://you.ctrip.com/food/shiyan464/13473975.html" target="_blank">蓝莓之夜美食花园</a></li><li><a href="http://you.ctrip.com/food/shiyan464/13476509.html" target="_blank">博昊美食广场</a></li><li><a href="http://you.ctrip.com/food/shiyan464/13466149.html" target="_blank">好想你枣(公园路大岭路店)</a></li><li><a href="http://you.ctrip.com/food/shiyan464/13484940.html" target="_blank">天津钙骨包</a></li><li><a href="http://you.ctrip.com/food/shiyan464/13496235.html" target="_blank">野户猎户手撕烤兔</a></li><li><a href="http://you.ctrip.com/food/shiyan464/13473639.html" target="_blank">秘制久久鸭</a></li><li><a href="http://you.ctrip.com/food/shiyan464/13476583.html" target="_blank">李四扯面馆</a></li><li><a href="http://you.ctrip.com/food/shiyan464/13442894.html" target="_blank">曹氏酸浆面</a></li></ul><h4 class="seotitle3">十堰旅游推荐移动入口：</h4><ul class="cf seomb10"><li><a href="https://gs.ctrip.com/html5/you/sight/464/1682306.html" target="_blank">紫薇岛生态旅游度假区</a></li><li><a href="https://gs.ctrip.com/html5/you/sight/464/8690.html" target="_blank">遇真宫</a></li><li><a href="https://gs.ctrip.com/html5/you/sight/464/140676.html" target="_blank">五龙河风景区</a></li><li><a href="https://gs.ctrip.com/html5/you/sight/464/8692.html" target="_blank">磨针井</a></li><li><a href="https://gs.ctrip.com/html5/you/sight/464/142058.html" target="_blank">丹江太平洋</a></li><li><a href="https://gs.ctrip.com/html5/you/sight/464/139946.html" target="_blank">龙潭河</a></li><li><a href="https://gs.ctrip.com/html5/you/sight/464/136382.html" target="_blank">武当山</a></li><li><a href="https://gs.ctrip.com/html5/you/sight/464/142059.html" target="_blank">虎啸滩</a></li><li><a href="https://gs.ctrip.com/html5/you/sight/464/141339.html" target="_blank">野人谷</a></li><li><a href="https://gs.ctrip.com/html5/you/sight/464/51138.html" target="_blank">雷神洞</a></li><li><a href="https://gs.ctrip.com/html5/you/sight/464/51069.html" target="_blank">三道天门</a></li><li><a href="https://gs.ctrip.com/html5/you/sight/464/17916.html" target="_blank">黄龙洞</a></li><li><a href="https://gs.ctrip.com/html5/you/sight/464/51067.html" target="_blank">榔梅祠</a></li><li><a href="https://gs.ctrip.com/html5/you/sight/464/8684.html" target="_blank">紫霄宫</a></li><li><a href="https://gs.ctrip.com/html5/you/sight/464/140640.html" target="_blank">太极峡风景区</a></li><li><a href="https://gs.ctrip.com/html5/you/sight/464/136421.html" target="_blank">太极剧场·梦幻武当</a></li><li><a href="https://gs.ctrip.com/html5/you/sight/464/8693.html" target="_blank">太子坡</a></li><li><a href="https://gs.ctrip.com/html5/you/sight/464/8778.html" target="_blank">琼台三观</a></li><li><a href="https://gs.ctrip.com/html5/you/sight/464/8781.html" target="_blank">太子岩</a></li><li><a href="https://gs.ctrip.com/html5/you/sight/464/8713.html" target="_blank">元和观</a></li><li><a href="https://gs.ctrip.com/html5/you/sight/464/20183.html" target="_blank">武商欧悦真冰场</a></li><li><a href="https://gs.ctrip.com/html5/you/sight/464/141459.html" target="_blank">龙泉寺</a></li><li><a href="https://gs.ctrip.com/html5/you/sight/464/140641.html" target="_blank">武当峡谷第一漂</a></li><li><a href="https://gs.ctrip.com/html5/you/sight/464/8696.html" target="_blank">南岩宫</a></li><li><a href="https://gs.ctrip.com/html5/you/sight/464/140898.html" target="_blank">郧县九龙瀑</a></li><li><a href="https://gs.ctrip.com/html5/you/sight/464/17919.html" target="_blank">飞升崖</a></li><li><a href="https://gs.ctrip.com/html5/you/sight/464/143301.html" target="_blank">黄龙滩旅游度假区</a></li><li><a href="https://gs.ctrip.com/html5/you/sight/464/8691.html" target="_blank">玉虚宫</a></li><li><a href="https://gs.ctrip.com/html5/you/sight/464/51068.html" target="_blank">朝天宫</a></li><li><a href="https://gs.ctrip.com/html5/you/sight/464/8779.html" target="_blank">五龙宫</a></li></ul><ul class="cf"><li><a href="https://gs.ctrip.com/html5/you/foods/464/13474404.html" target="_blank">春喜砂锅店</a></li><li><a href="https://gs.ctrip.com/html5/you/foods/464/13444032.html" target="_blank">农家菜馆</a></li><li><a href="https://gs.ctrip.com/html5/you/foods/464/13473240.html" target="_blank">尚品菜馆</a></li><li><a href="https://gs.ctrip.com/html5/you/foods/464/13450038.html" target="_blank">杨国福麻辣烫</a></li><li><a href="https://gs.ctrip.com/html5/you/foods/464/13464770.html" target="_blank">好食客</a></li><li><a href="https://gs.ctrip.com/html5/you/foods/464/13440118.html" target="_blank">牛翠川味小吃</a></li><li><a href="https://gs.ctrip.com/html5/you/foods/464/13437696.html" target="_blank">宫廷桃酥王</a></li><li><a href="https://gs.ctrip.com/html5/you/foods/464/13444476.html" target="_blank">安庆馄饨</a></li><li><a href="https://gs.ctrip.com/html5/you/foods/464/13457839.html" target="_blank">九九鸭(三堰店)</a></li><li><a href="https://gs.ctrip.com/html5/you/foods/464/4926246.html" target="_blank">谭二拉面店</a></li><li><a href="https://gs.ctrip.com/html5/you/foods/464/13460668.html" target="_blank">卧龙饭店 卧龙御厨</a></li><li><a href="https://gs.ctrip.com/html5/you/foods/464/13440251.html" target="_blank">熊氏鸡汤馆</a></li><li><a href="https://gs.ctrip.com/html5/you/foods/464/7809275.html" target="_blank">三千里韩国料理(东岳路店)</a></li><li><a href="https://gs.ctrip.com/html5/you/foods/464/13492331.html" target="_blank">凯旋楼</a></li><li><a href="https://gs.ctrip.com/html5/you/foods/464/13479445.html" target="_blank">早上好正宗炸酱面</a></li><li><a href="https://gs.ctrip.com/html5/you/foods/464/13445798.html" target="_blank">蒸蒸日上包子店</a></li><li><a href="https://gs.ctrip.com/html5/you/foods/464/13495486.html" target="_blank">正川帮酒楼</a></li><li><a href="https://gs.ctrip.com/html5/you/foods/464/13450062.html" target="_blank">陈记滋补清汤牛肉拉面</a></li><li><a href="https://gs.ctrip.com/html5/you/foods/464/4926266.html" target="_blank">谭家鸭唇王(老龄委院店)</a></li><li><a href="https://gs.ctrip.com/html5/you/foods/464/13478861.html" target="_blank">源味小吃</a></li><li><a href="https://gs.ctrip.com/html5/you/foods/464/13446107.html" target="_blank">赵记卤香王</a></li><li><a href="https://gs.ctrip.com/html5/you/foods/464/13484251.html" target="_blank">醉香聚石锅鱼</a></li><li><a href="https://gs.ctrip.com/html5/you/foods/464/13473975.html" target="_blank">蓝莓之夜美食花园</a></li><li><a href="https://gs.ctrip.com/html5/you/foods/464/13476509.html" target="_blank">博昊美食广场</a></li><li><a href="https://gs.ctrip.com/html5/you/foods/464/13466149.html" target="_blank">好想你枣(公园路大岭路店)</a></li><li><a href="https://gs.ctrip.com/html5/you/foods/464/13484940.html" target="_blank">天津钙骨包</a></li><li><a href="https://gs.ctrip.com/html5/you/foods/464/13496235.html" target="_blank">野户猎户手撕烤兔</a></li><li><a href="https://gs.ctrip.com/html5/you/foods/464/13473639.html" target="_blank">秘制久久鸭</a></li><li><a href="https://gs.ctrip.com/html5/you/foods/464/13476583.html" target="_blank">李四扯面馆</a></li><li><a href="https://gs.ctrip.com/html5/you/foods/464/13442894.html" target="_blank">曹氏酸浆面</a></li></ul></div> </div><div class="footerseo_con seojs6line2blank">
+                                    <div class="cf seo_title">
+                                        <h3 class="seotitle2">热门旅游目的地推荐</h3>
+                                        <a class="more" href="javascript:;">+更多</a>
+                                    </div><div class="seojscon"><ul  class="cf seomb10"><li><a href="http://you.ctrip.com/place/bandung436.html" target="_blank">万隆旅游攻略</a></li><li><a href="http://you.ctrip.com/place/xitang15.html" target="_blank">西塘旅游攻略</a></li><li><a href="http://you.ctrip.com/place/lulong1446039.html" target="_blank">卢龙旅游攻略</a></li><li><a href="http://you.ctrip.com/place/hefei196.html" target="_blank">合肥旅游攻略</a></li><li><a href="http://you.ctrip.com/place/siping556.html" target="_blank">四平旅游攻略</a></li><li><a href="http://you.ctrip.com/place/boao2078.html" target="_blank">博鳌旅游攻略</a></li><li><a href="http://you.ctrip.com/place/zengcheng532.html" target="_blank">增城旅游攻略</a></li><li><a href="http://you.ctrip.com/place/lasvegas252.html" target="_blank">拉斯维加斯旅游攻略</a></li><li><a href="http://you.ctrip.com/place/aden25006.html" target="_blank">亚丁旅游攻略</a></li><li><a href="http://you.ctrip.com/place/indonesia100045.html" target="_blank">印度尼西亚旅游攻略</a></li><li><a href="http://you.ctrip.com/place/panjin602.html" target="_blank">盘锦旅游攻略</a></li><li><a href="http://you.ctrip.com/place/cairo326.html" target="_blank">开罗旅游攻略</a></li><li><a href="http://you.ctrip.com/place/fengdu120029.html" target="_blank">丰都旅游攻略</a></li><li><a href="http://you.ctrip.com/place/hakone60571.html" target="_blank">箱根旅游攻略</a></li><li><a href="http://you.ctrip.com/place/colorado1421.html" target="_blank">科罗拉多州旅游攻略</a></li><li><a href="http://you.ctrip.com/place/namh?i1590239.html" target="_blank">南海旅游攻略</a></li><li><a href="http://you.ctrip.com/place/korla429.html" target="_blank">库尔勒旅游攻略</a></li><li><a href="http://you.ctrip.com/place/london309.html" target="_blank">伦敦旅游攻略</a></li><li><a href="http://you.ctrip.com/place/lingshui1509.html" target="_blank">陵水旅游攻略</a></li><li><a href="http://you.ctrip.com/place/masouri135576.html" target="_blank">密苏里旅游攻略</a></li></ul><ul class="cf seomb10"><li><a href="http://you.ctrip.com/sight/jungfrau1445150/1482800.html" target="_blank">Interlaken Castle</a></li><li><a href="http://you.ctrip.com/sight/toledo1958/1698592.html" target="_blank">托雷塔格莱宫</a></li><li><a href="http://you.ctrip.com/sight/doha1733/1969877.html" target="_blank">滨海公园</a></li><li><a href="http://you.ctrip.com/sight/zhenkang1446295/4553615.html" target="_blank">宝贝乐园</a></li><li><a href="http://you.ctrip.com/sight/jungfrau1445150/1482779.html" target="_blank">施特歇尔贝格</a></li><li><a href="http://you.ctrip.com/sight/naidong2441/132892.html" target="_blank">赞塘玉益拉康</a></li><li><a href="http://you.ctrip.com/sight/doha1733/1971797.html" target="_blank">多哈消防站</a></li><li><a href="http://you.ctrip.com/sight/luoping676/4588874.html" target="_blank">九龙绿缘度假村</a></li><li><a href="http://you.ctrip.com/sight/heping2948/4593300.html" target="_blank">华源广场</a></li><li><a href="http://you.ctrip.com/sight/hegang811/4581940.html" target="_blank">兴安大峡谷地质公园</a></li><li><a href="http://you.ctrip.com/sight/piacenza6867/4402754.html" target="_blank">Museo della Civiltà Contadina di Piacenza</a></li><li><a href="http://you.ctrip.com/sight/luoping676/135259.html" target="_blank">白腊山</a></li><li><a href="http://you.ctrip.com/sight/california21636/137434.html" target="_blank">卡梅尔小镇</a></li><li><a href="http://you.ctrip.com/sight/luoping676/5135717.html" target="_blank">鲁布格森林公园 </a></li><li><a href="http://you.ctrip.com/sight/luoping676/5165078.html" target="_blank">九龙奇石馆 </a></li><li><a href="http://you.ctrip.com/sight/zhujiajiao176/1474962.html" target="_blank">翰林匾额博物馆</a></li><li><a href="http://you.ctrip.com/sight/doha1733/1695264.html" target="_blank">巴尔赞塔</a></li><li><a href="http://you.ctrip.com/sight/toledo1958/2843852.html" target="_blank">Museum of Visigothic Culture</a></li><li><a href="http://you.ctrip.com/sight/naidong2441/11827.html" target="_blank">贡布日神山</a></li><li><a href="http://you.ctrip.com/sight/peterborough1656591/5358476.html" target="_blank">The Harrier</a></li></ul><ul class="cf"><li><a href="http://you.ctrip.com/food/longmen2949/16423767.html" target="_blank">绿之源美食山庄</a></li><li><a href="http://you.ctrip.com/food/wuhan145/389515.html" target="_blank">凯威啤酒屋(销品茂店)</a></li><li><a href="http://you.ctrip.com/food/zhenyuan1840/13791346.html" target="_blank">嘉麦斯汉堡</a></li><li><a href="http://you.ctrip.com/food/wuhan145/5284059.html" target="_blank">刘胖子家常菜(黄陂街店)</a></li><li><a href="http://you.ctrip.com/food/longmen2949/16423598.html" target="_blank">百之度饮吧</a></li><li><a href="http://you.ctrip.com/food/tunisia100115/21517110.html" target="_blank">Dar Mrad</a></li><li><a href="http://you.ctrip.com/food/wuhan145/4926203.html" target="_blank">靓靓蒸虾(雪松路总店)</a></li><li><a href="http://you.ctrip.com/food/christchurch695/459041.html" target="_blank">Honey Pot Cafe</a></li><li><a href="http://you.ctrip.com/food/zhenyuan1840/13744473.html" target="_blank">港式煲仔饭</a></li><li><a href="http://you.ctrip.com/food/wuhan145/5286534.html" target="_blank">丹青宴(武汉天地店)</a></li><li><a href="http://you.ctrip.com/food/peterborough1656591/6991140.html" target="_blank">Maharanis</a></li><li><a href="http://you.ctrip.com/food/c?tedegranitrose2002409/9173621.html" target="_blank">Digor Kalon</a></li><li><a href="http://you.ctrip.com/food/dazudistrict120025/11468816.html" target="_blank">蒙缘食府(印象店)</a></li><li><a href="http://you.ctrip.com/food/christchurch695/11639402.html" target="_blank">Carlton Bar & Eatery</a></li><li><a href="http://you.ctrip.com/food/tunisia100115/21536677.html" target="_blank">LE SENATEUR</a></li><li><a href="http://you.ctrip.com/food/peterborough1656591/6991260.html" target="_blank">The Cherry House Restaurant</a></li><li><a href="http://you.ctrip.com/food/sanfrancisco61033/20204197.html" target="_blank">Garden Grill and Resto Bar</a></li><li><a href="http://you.ctrip.com/food/c?tedegranitrose2002409/9115543.html" target="_blank">Le Saint Glinglin</a></li><li><a href="http://you.ctrip.com/food/lvshunkoudistrict120470/378272.html" target="_blank">香十里</a></li><li><a href="http://you.ctrip.com/food/changchun216/5523482.html" target="_blank">Steaking食间牛排馆(长春万达广场店)</a></li></ul> <h4 class="seotitle3">热门旅游目的地推荐移动入口：</h4><ul  class="cf seomb10"><li><a href="https://gs.ctrip.com/html5/you/place/436.html" target="_blank">万隆旅游攻略</a></li><li><a href="https://gs.ctrip.com/html5/you/place/15.html" target="_blank">西塘旅游攻略</a></li><li><a href="https://gs.ctrip.com/html5/you/place/1446039.html" target="_blank">卢龙旅游攻略</a></li><li><a href="https://gs.ctrip.com/html5/you/place/196.html" target="_blank">合肥旅游攻略</a></li><li><a href="https://gs.ctrip.com/html5/you/place/556.html" target="_blank">四平旅游攻略</a></li><li><a href="https://gs.ctrip.com/html5/you/place/2078.html" target="_blank">博鳌旅游攻略</a></li><li><a href="https://gs.ctrip.com/html5/you/place/532.html" target="_blank">增城旅游攻略</a></li><li><a href="https://gs.ctrip.com/html5/you/place/252.html" target="_blank">拉斯维加斯旅游攻略</a></li><li><a href="https://gs.ctrip.com/html5/you/place/25006.html" target="_blank">亚丁旅游攻略</a></li><li><a href="https://gs.ctrip.com/html5/you/place/100045.html" target="_blank">印度尼西亚旅游攻略</a></li><li><a href="https://gs.ctrip.com/html5/you/place/602.html" target="_blank">盘锦旅游攻略</a></li><li><a href="https://gs.ctrip.com/html5/you/place/326.html" target="_blank">开罗旅游攻略</a></li><li><a href="https://gs.ctrip.com/html5/you/place/120029.html" target="_blank">丰都旅游攻略</a></li><li><a href="https://gs.ctrip.com/html5/you/place/60571.html" target="_blank">箱根旅游攻略</a></li><li><a href="https://gs.ctrip.com/html5/you/place/1421.html" target="_blank">科罗拉多州旅游攻略</a></li><li><a href="https://gs.ctrip.com/html5/you/place/1590239.html" target="_blank">南海旅游攻略</a></li><li><a href="https://gs.ctrip.com/html5/you/place/429.html" target="_blank">库尔勒旅游攻略</a></li><li><a href="https://gs.ctrip.com/html5/you/place/309.html" target="_blank">伦敦旅游攻略</a></li><li><a href="https://gs.ctrip.com/html5/you/place/1509.html" target="_blank">陵水旅游攻略</a></li><li><a href="https://gs.ctrip.com/html5/you/place/135576.html" target="_blank">密苏里旅游攻略</a></li></ul><ul class="cf seomb10"><li><a href="https://gs.ctrip.com/html5/you/sight/1445150/1482800.html" target="_blank">Interlaken Castle</a></li><li><a href="https://gs.ctrip.com/html5/you/sight/1958/1698592.html" target="_blank">托雷塔格莱宫</a></li><li><a href="https://gs.ctrip.com/html5/you/sight/1733/1969877.html" target="_blank">滨海公园</a></li><li><a href="https://gs.ctrip.com/html5/you/sight/1446295/4553615.html" target="_blank">宝贝乐园</a></li><li><a href="https://gs.ctrip.com/html5/you/sight/1445150/1482779.html" target="_blank">施特歇尔贝格</a></li><li><a href="https://gs.ctrip.com/html5/you/sight/2441/132892.html" target="_blank">赞塘玉益拉康</a></li><li><a href="https://gs.ctrip.com/html5/you/sight/1733/1971797.html" target="_blank">多哈消防站</a></li><li><a href="https://gs.ctrip.com/html5/you/sight/676/4588874.html" target="_blank">九龙绿缘度假村</a></li><li><a href="https://gs.ctrip.com/html5/you/sight/2948/4593300.html" target="_blank">华源广场</a></li><li><a href="https://gs.ctrip.com/html5/you/sight/811/4581940.html" target="_blank">兴安大峡谷地质公园</a></li><li><a href="https://gs.ctrip.com/html5/you/sight/6867/4402754.html" target="_blank">Museo della Civiltà Contadina di Piacenza</a></li><li><a href="https://gs.ctrip.com/html5/you/sight/676/135259.html" target="_blank">白腊山</a></li><li><a href="https://gs.ctrip.com/html5/you/sight/21636/137434.html" target="_blank">卡梅尔小镇</a></li><li><a href="https://gs.ctrip.com/html5/you/sight/676/5135717.html" target="_blank">鲁布格森林公园 </a></li><li><a href="https://gs.ctrip.com/html5/you/sight/676/5165078.html" target="_blank">九龙奇石馆 </a></li><li><a href="https://gs.ctrip.com/html5/you/sight/176/1474962.html" target="_blank">翰林匾额博物馆</a></li><li><a href="https://gs.ctrip.com/html5/you/sight/1733/1695264.html" target="_blank">巴尔赞塔</a></li><li><a href="https://gs.ctrip.com/html5/you/sight/1958/2843852.html" target="_blank">Museum of Visigothic Culture</a></li><li><a href="https://gs.ctrip.com/html5/you/sight/2441/11827.html" target="_blank">贡布日神山</a></li><li><a href="https://gs.ctrip.com/html5/you/sight/1656591/5358476.html" target="_blank">The Harrier</a></li></ul><ul class="cf"><li><a href="https://gs.ctrip.com/html5/you/foods/2949/16423767.html" target="_blank">绿之源美食山庄</a></li><li><a href="https://gs.ctrip.com/html5/you/foods/145/389515.html" target="_blank">凯威啤酒屋(销品茂店)</a></li><li><a href="https://gs.ctrip.com/html5/you/foods/1840/13791346.html" target="_blank">嘉麦斯汉堡</a></li><li><a href="https://gs.ctrip.com/html5/you/foods/145/5284059.html" target="_blank">刘胖子家常菜(黄陂街店)</a></li><li><a href="https://gs.ctrip.com/html5/you/foods/2949/16423598.html" target="_blank">百之度饮吧</a></li><li><a href="https://gs.ctrip.com/html5/you/foods/100115/21517110.html" target="_blank">Dar Mrad</a></li><li><a href="https://gs.ctrip.com/html5/you/foods/145/4926203.html" target="_blank">靓靓蒸虾(雪松路总店)</a></li><li><a href="https://gs.ctrip.com/html5/you/foods/695/459041.html" target="_blank">Honey Pot Cafe</a></li><li><a href="https://gs.ctrip.com/html5/you/foods/1840/13744473.html" target="_blank">港式煲仔饭</a></li><li><a href="https://gs.ctrip.com/html5/you/foods/145/5286534.html" target="_blank">丹青宴(武汉天地店)</a></li><li><a href="https://gs.ctrip.com/html5/you/foods/1656591/6991140.html" target="_blank">Maharanis</a></li><li><a href="https://gs.ctrip.com/html5/you/foods/2002409/9173621.html" target="_blank">Digor Kalon</a></li><li><a href="https://gs.ctrip.com/html5/you/foods/120025/11468816.html" target="_blank">蒙缘食府(印象店)</a></li><li><a href="https://gs.ctrip.com/html5/you/foods/695/11639402.html" target="_blank">Carlton Bar & Eatery</a></li><li><a href="https://gs.ctrip.com/html5/you/foods/100115/21536677.html" target="_blank">LE SENATEUR</a></li><li><a href="https://gs.ctrip.com/html5/you/foods/1656591/6991260.html" target="_blank">The Cherry House Restaurant</a></li><li><a href="https://gs.ctrip.com/html5/you/foods/61033/20204197.html" target="_blank">Garden Grill and Resto Bar</a></li><li><a href="https://gs.ctrip.com/html5/you/foods/2002409/9115543.html" target="_blank">Le Saint Glinglin</a></li><li><a href="https://gs.ctrip.com/html5/you/foods/120470/378272.html" target="_blank">香十里</a></li><li><a href="https://gs.ctrip.com/html5/you/foods/216/5523482.html" target="_blank">Steaking食间牛排馆(长春万达广场店)</a></li></ul></div></div><div class="footerseo_con seojs3line">
+                                    <div class="cf seo_title">
+                                        <h3 class="seotitle2">热门旅游攻略</h3>
+                                        <a class="more" href="javascript:;">+更多</a>                                        
+                                    </div><div class="seojscon"><ul  class="cf seomb10"><li><a href="http://you.ctrip.com/place/kubuqi120472.html" target="_blank">库布齐沙漠旅游攻略</a></li><li><a href="http://you.ctrip.com/place/oxford407.html" target="_blank">牛津旅游攻略</a></li><li><a href="http://you.ctrip.com/place/beitou120539.html" target="_blank">北投旅游攻略</a></li><li><a href="http://you.ctrip.com/place/prague822.html" target="_blank">布拉格旅游攻略</a></li><li><a href="http://you.ctrip.com/place/ferrara6830.html" target="_blank">费拉拉旅游攻略</a></li><li><a href="http://you.ctrip.com/place/delingha891.html" target="_blank">德令哈旅游攻略</a></li><li><a href="http://you.ctrip.com/place/diqing120009.html" target="_blank">迪庆旅游攻略</a></li><li><a href="http://you.ctrip.com/place/india100080.html" target="_blank">印度旅游攻略</a></li><li><a href="http://you.ctrip.com/place/ruoqiang120547.html" target="_blank">若羌旅游攻略</a></li><li><a href="http://you.ctrip.com/place/hucounty2741.html" target="_blank">户县旅游攻略</a></li><li><a href="http://you.ctrip.com/place/bandung436.html" target="_blank">万隆旅游攻略</a></li><li><a href="http://you.ctrip.com/place/pujiang1002.html" target="_blank">浦江旅游攻略</a></li><li><a href="http://you.ctrip.com/place/xiangtan1417.html" target="_blank">湘潭旅游攻略</a></li><li><a href="http://you.ctrip.com/place/ibaraki1401.html" target="_blank">茨城县旅游攻略</a></li><li><a href="http://you.ctrip.com/place/tongliao885.html" target="_blank">通辽旅游攻略</a></li><li><a href="http://you.ctrip.com/place/mustang15000.html" target="_blank">木斯塘旅游攻略</a></li><li><a href="http://you.ctrip.com/place/huitong2828.html" target="_blank">会同旅游攻略</a></li><li><a href="http://you.ctrip.com/place/newhaven16622.html" target="_blank">纽黑文旅游攻略</a></li><li><a href="http://you.ctrip.com/place/rembia1453872.html" target="_blank">文庙旅游攻略</a></li><li><a href="http://you.ctrip.com/place/odessa20764.html" target="_blank">敖德萨旅游攻略</a></li></ul><h4 class="seotitle3">热门旅游攻略移动入口：</h4><ul  class="cf seomb10"><li><a href="https://gs.ctrip.com/html5/you/place/120472.html" target="_blank">库布齐沙漠旅游攻略</a></li><li><a href="https://gs.ctrip.com/html5/you/place/407.html" target="_blank">牛津旅游攻略</a></li><li><a href="https://gs.ctrip.com/html5/you/place/120539.html" target="_blank">北投旅游攻略</a></li><li><a href="https://gs.ctrip.com/html5/you/place/822.html" target="_blank">布拉格旅游攻略</a></li><li><a href="https://gs.ctrip.com/html5/you/place/6830.html" target="_blank">费拉拉旅游攻略</a></li><li><a href="https://gs.ctrip.com/html5/you/place/891.html" target="_blank">德令哈旅游攻略</a></li><li><a href="https://gs.ctrip.com/html5/you/place/120009.html" target="_blank">迪庆旅游攻略</a></li><li><a href="https://gs.ctrip.com/html5/you/place/100080.html" target="_blank">印度旅游攻略</a></li><li><a href="https://gs.ctrip.com/html5/you/place/120547.html" target="_blank">若羌旅游攻略</a></li><li><a href="https://gs.ctrip.com/html5/you/place/2741.html" target="_blank">户县旅游攻略</a></li><li><a href="https://gs.ctrip.com/html5/you/place/436.html" target="_blank">万隆旅游攻略</a></li><li><a href="https://gs.ctrip.com/html5/you/place/1002.html" target="_blank">浦江旅游攻略</a></li><li><a href="https://gs.ctrip.com/html5/you/place/1417.html" target="_blank">湘潭旅游攻略</a></li><li><a href="https://gs.ctrip.com/html5/you/place/1401.html" target="_blank">茨城县旅游攻略</a></li><li><a href="https://gs.ctrip.com/html5/you/place/885.html" target="_blank">通辽旅游攻略</a></li><li><a href="https://gs.ctrip.com/html5/you/place/15000.html" target="_blank">木斯塘旅游攻略</a></li><li><a href="https://gs.ctrip.com/html5/you/place/2828.html" target="_blank">会同旅游攻略</a></li><li><a href="https://gs.ctrip.com/html5/you/place/16622.html" target="_blank">纽黑文旅游攻略</a></li><li><a href="https://gs.ctrip.com/html5/you/place/1453872.html" target="_blank">文庙旅游攻略</a></li><li><a href="https://gs.ctrip.com/html5/you/place/20764.html" target="_blank">敖德萨旅游攻略</a></li></ul></div></div><div class="footerseo_con">
+                                    <div class="cf seo_title">
+                                        <h3 class="seotitle2">地标推荐</h3>                                        
+                                    </div><ul  class="cf seomb10"><li><a href="https://gs.ctrip.com/html5/you/situs/464.html" target="_blank">十堰地标</a></li><li><a href="https://gs.ctrip.com/html5/you/situs/464/list-19-P1.html" target="_blank">医疗保健服务场所</a></li><li><a href="https://gs.ctrip.com/html5/you/situs/464/list-25-P1.html" target="_blank">休闲餐饮场所</a></li><li><a href="https://gs.ctrip.com/html5/you/situs/464/list-31-P1.html" target="_blank">特色商业街</a></li><li><a href="https://gs.ctrip.com/html5/you/situs/464/list-36-P1.html" target="_blank">公交车站</a></li><li><a href="https://gs.ctrip.com/html5/you/situs/464/list-41-P1.html" target="_blank">交通服务相关</a></li><li><a href="https://gs.ctrip.com/html5/you/situs/464/list-43-P1.html" target="_blank">宾馆酒店</a></li><li><a href="https://gs.ctrip.com/html5/you/situs/464/list-46-P1.html" target="_blank">美容美发店</a></li><li><a href="https://gs.ctrip.com/html5/you/situs/464/list-48-P1.html" target="_blank">奥迪特约销售</a></li><li><a href="https://gs.ctrip.com/html5/you/situs/464/list-76-P1.html" target="_blank">超级市场</a></li><li><a href="https://gs.ctrip.com/html5/you/situs/464/list-79-P1.html" target="_blank">产业园区</a></li><li><a href="https://gs.ctrip.com/html5/you/situs/464/list-86-P1.html" target="_blank">人才市场</a></li><li><a href="https://gs.ctrip.com/html5/you/situs/464/list-98-P1.html" target="_blank">电力营业厅</a></li><li><a href="https://gs.ctrip.com/html5/you/situs/464/list-101-P1.html" target="_blank">休闲场所</a></li><li><a href="https://gs.ctrip.com/html5/you/situs/464/list-104-P1.html" target="_blank">动物医疗场所</a></li><li><a href="https://gs.ctrip.com/html5/you/situs/464/list-109-P1.html" target="_blank">茶艺馆</a></li><li><a href="https://gs.ctrip.com/html5/you/situs/464/list-113-P1.html" target="_blank">度假疗养场所</a></li><li><a href="https://gs.ctrip.com/html5/you/situs/464/list-119-P1.html" target="_blank">体育用品店</a></li></ul></div><div class="footerseo_con seojs2line"> <div class="cf seo_title"> <h3 class="seotitle2"> 地图导航</h3> <a class="more" href="javascript:;">+更多</a></div> <div class="seojscon"><ul class="cf"><li><a href="http://you.ctrip.com/">攻略社区</a></li><li><a href="http://you.ctrip.com/place/">旅游攻略</a></li><li><a href="http://you.ctrip.com/travels/">旅行游记</a></li><li><a href="http://you.ctrip.com/asks/">旅游问答</a></li><li><a href="http://you.ctrip.com/events/">结伴向导</a></li><li><a href="http://you.ctrip.com/it/">智慧旅游</a></li><li><a href="http://you.ctrip.com/guides/">攻略下载</a></li><li><a href="http://you.ctrip.com/flight/">机票查询</a></li><li><a href="http://you.ctrip.com/weather/">天气预报</a></li><li><a href="http://you.ctrip.com/news/">旅游资讯</a></li><li><a href="http://top.ctrip.com/">旅游榜单</a></li><li><a href="http://top.ctrip.com/baike/">旅游百科</a></li><li><a href="http://you.ctrip.com/thematic/union.html">旅游专题</a></li><li><a href="http://you.ctrip.com/place/europe120002.html">欧洲旅游</a></li><li><a href="http://you.ctrip.com/place/asia120001.html">亚洲旅游</a></li><li><a href="http://you.ctrip.com/sitemap/">地图大全</a></li><li><a href="http://you.ctrip.com/qapp">氢气球</a></li><li><a href="https://m.ctrip.com/html5/you/sight/shiyan464.html">移动入口</a></li><li><a href="http://you.ctrip.com/article/html5map/">资讯索引</a></li></ul><h4 class="seotitle3">移动端入口:</h4> <ul class="cf"><li><a href="https://gs.ctrip.com/html5/you/">旅游攻略</a></li><li><a href="https://gs.ctrip.com/html5/you/citylist.html">目的地选择</a></li><li><a href="https://gs.ctrip.com/html5/you/sitemap/foods.html">美食大全</a></li><li><a href="https://gs.ctrip.com/html5/you/travels/">游记攻略</a></li><li><a href="https://gs.ctrip.com/html5/you/asks/">问答提问</a></li><li><a href="https://gs.ctrip.com/html5/you/events/">结伴旅行</a></li><li><a href="https://gs.ctrip.com/html5/you/dangdiren/">当地向导</a></li><li><a href="https://gs.ctrip.com/html5/you/news/">旅游资讯</a></li><li><a href="https://gs.ctrip.com/html5/you/it/">智慧旅游</a></li><li><a href="https://gs.ctrip.com/html5/you/foods/address.html">携程美食林</a></li><li><a href="https://gs.ctrip.com/html5/you/article/">携程氢气球</a></li></ul></div> </div><div class="footerseo_con"> <div class="cf seo_title"> <h3 class="seotitle2"> 友情链接</h3> </div> <div class="linklist cf"><a href="http://jiudian.kuxun.cn/shiyan-jiudian-daquan.html" target="_blank">十堰景点预订</a><a href="http://you.ctrip.com/travels/Zhoushanbendao120433.html" target="_blank">舟山本岛旅行游记</a><a href="http://you.ctrip.com/asks/zhashui2766.html" target="_blank">柞水旅游问答</a><a href="http://top.ctrip.com/baike/stateofsaopa933.html" target="_blank">圣保罗自助游攻略</a><a href="http://you.ctrip.com/weather/puertorico21617.html" target="_blank">波多黎各天气预报</a><a href="http://you.ctrip.com/place/yijinhuoluoqi2966.html" target="_blank">伊金霍洛旗旅游</a><a href="http://you.ctrip.com/journeys/xinyi2922.html" target="_blank">信宜旅游线路</a><a href="http://you.ctrip.com/shopping/weixin2213.html" target="_blank">威信购物攻略</a><a href="http://www.xiamenhuji.com/show.asp?id=244" target="_blank">资金过桥期限</a><a href="https://www.kanzhun.com/gso1578964.html" target="_blank">东莞市天鹏家具</a><a href="https://m.ctrip.com/html5/you/place/shiyan464.html" target="_blank">十堰</a><a href="http://shiyan.anjuke.com/market/" target="_blank">十堰房价</a><a href="https://www.tujia.com/gongyu/shiyan/" target="_blank">十堰住宿预订</a><a href="https://shiyan.11467.com/pifa-fuwu/" target="_blank">十堰商务服务</a></div> </div><div class="footerseo_con"><div class="cf seo_title"><h3 class="seotitle2">最新游友动态资讯</h3></div><div class="footerseo_con1" id="footerseo_marquee"><ul><li>[26天前] 智慧** 发布了<a href=https://gs.ctrip.com/html5/you/travels/464.html target="_blank">十堰游记</a> <a href="https://gs.ctrip.com/html5/you/travels/146/3809661.html" target="_blank">问道武当，寻梦太极</a></li><li>[31天前] lc_n** 发布了<a href=https://gs.ctrip.com/html5/you/travels/464.html target="_blank">十堰游记</a> <a href="https://gs.ctrip.com/html5/you/travels/146/3807679.html" target="_blank">ひとりで 鄂西行纪——武当山篇</a></li><li>[45天前] 柯云** 发布了<a href=https://gs.ctrip.com/html5/you/travels/464.html target="_blank">十堰游记</a> <a href="https://gs.ctrip.com/html5/you/travels/146/3803575.html" target="_blank">武当山隐仙别院，一间离仙界很近，离尘世不远的民宿</a></li><li>[49天前] 白石** 发布了<a href=https://gs.ctrip.com/html5/you/travels/464.html target="_blank">十堰游记</a> <a href="https://gs.ctrip.com/html5/you/travels/146/3801985.html" target="_blank">五一武当山两日游（武汉出发）</a></li><li>[62天前] r***** 发布了<a href=https://gs.ctrip.com/html5/you/travels/464.html target="_blank">十堰游记</a> <a href="https://gs.ctrip.com/html5/you/travels/2724/3798027.html" target="_blank">狼山之葵竹山房</a></li><li>[67天前] M31*** 发布了<a href=https://gs.ctrip.com/html5/you/travels/464.html target="_blank">十堰游记</a> <a href="https://gs.ctrip.com/html5/you/travels/146/3796495.html" target="_blank">程幼军的武当山之旅</a></li><li>[82天前] 彳亍 发布了<a href=https://gs.ctrip.com/html5/you/travels/464.html target="_blank">十堰游记</a> <a href="https://gs.ctrip.com/html5/you/travels/145/3788121.html" target="_blank">武大樱花、武当山之五日小长假</a></li><li>[94天前] 勒克** 发布了<a href=https://gs.ctrip.com/html5/you/travels/464.html target="_blank">十堰游记</a> <a href="https://gs.ctrip.com/html5/you/travels/464/3788236.html" target="_blank">“武当三宝”有两个是传说 武当山真正的传世宝贝不是故事而是你...</a></li><li>[96天前] 勒克** 发布了<a href=https://gs.ctrip.com/html5/you/travels/464.html target="_blank">十堰游记</a> <a href="https://gs.ctrip.com/html5/you/travels/464/3787753.html" target="_blank">利用人们趋利避害心理 史上最变态设计——武当“龙头香”的邪恶</a></li><li>[142天前] 二师** 发布了<a href=https://gs.ctrip.com/html5/you/travels/464.html target="_blank">十堰游记</a> <a href="https://gs.ctrip.com/html5/you/travels/146/3772400.html" target="_blank">春节武当山听雪祈福，偶遇搭讪来一波</a></li><li>[154天前] 柯云** 发布了<a href=https://gs.ctrip.com/html5/you/travels/464.html target="_blank">十堰游记</a> <a href="https://gs.ctrip.com/html5/you/travels/464/3768803.html" target="_blank">探访武当山隐仙别院|月色与雪色之间，你是第三种绝色</a></li><li>[184天前] zhen** 发布了<a href=https://gs.ctrip.com/html5/you/travels/464.html target="_blank">十堰游记</a> <a href="https://gs.ctrip.com/html5/you/travels/988/3761518.html" target="_blank">沱江两岸凤凰城</a></li><li>[196天前] zhen** 发布了<a href=https://gs.ctrip.com/html5/you/travels/464.html target="_blank">十堰游记</a> <a href="https://gs.ctrip.com/html5/you/travels/702/3757810.html" target="_blank">单车骑游遇龙桥</a></li><li>[207天前] LH12** 发布了<a href=https://gs.ctrip.com/html5/you/travels/464.html target="_blank">十堰游记</a> <a href="https://gs.ctrip.com/html5/you/travels/146/3754408.html" target="_blank">武当踏雪寻秋，不负金色时光</a></li><li>[214天前] 暮秋** 发布了<a href=https://gs.ctrip.com/html5/you/travels/464.html target="_blank">十堰游记</a> <a href="https://gs.ctrip.com/html5/you/travels/120559/3752077.html" target="_blank">2018年10月张家界、神农架、武当山等湖南、湖北自驾游攻略</a></li><li>[221天前] 发现** 发布了<a href=https://gs.ctrip.com/html5/you/travels/464.html target="_blank">十堰游记</a> <a href="https://gs.ctrip.com/html5/you/travels/146/3750483.html" target="_blank">武当山风景区游玩攻略及线路推荐</a></li><li>[228天前] 虚幻** 发布了<a href=https://gs.ctrip.com/html5/you/travels/464.html target="_blank">十堰游记</a> <a href="https://gs.ctrip.com/html5/you/travels/100067/3748337.html" target="_blank">背包客湖北自由行之武当山</a></li><li>[233天前] 静水** 发布了<a href=https://gs.ctrip.com/html5/you/travels/464.html target="_blank">十堰游记</a> <a href="https://gs.ctrip.com/html5/you/travels/146/3746675.html" target="_blank">冬游武当山神农架</a></li><li>[241天前] 木易** 发布了<a href=https://gs.ctrip.com/html5/you/travels/464.html target="_blank">十堰游记</a> <a href="https://gs.ctrip.com/html5/you/travels/147/3744439.html" target="_blank">武当山神农架自驾游（神农架篇）</a></li><li>[241天前] 木易** 发布了<a href=https://gs.ctrip.com/html5/you/travels/464.html target="_blank">十堰游记</a> <a href="https://gs.ctrip.com/html5/you/travels/146/3744139.html" target="_blank">武当山神农架自驾游（武当山篇）</a></li><li>[268天前] 携程** 发布了<a href=https://gs.ctrip.com/html5/you/travels/464.html target="_blank">十堰游记</a> <a href="https://gs.ctrip.com/html5/you/travels/146/3732652.html" target="_blank">中秋佳节游武当 观山赏月练太极</a></li><li>[291天前] 快乐** 发布了<a href=https://gs.ctrip.com/html5/you/travels/464.html target="_blank">十堰游记</a> <a href="https://gs.ctrip.com/html5/you/travels/146/3725304.html" target="_blank">十堰武当山--华山--壶口瀑布--延安游记 （17）</a></li><li>[295天前] 易烊** 发布了<a href=https://gs.ctrip.com/html5/you/travels/464.html target="_blank">十堰游记</a> <a href="https://gs.ctrip.com/html5/you/travels/414/3723624.html" target="_blank">襄阳武当山四日游（在襄阳就待了一天）</a></li><li>[297天前] e15*** 发布了<a href=https://gs.ctrip.com/html5/you/travels/464.html target="_blank">十堰游记</a> <a href="https://gs.ctrip.com/html5/you/travels/146/3723040.html" target="_blank">说走就走之武当山三日游</a></li><li>[301天前] _CFT** 发布了<a href=https://gs.ctrip.com/html5/you/travels/464.html target="_blank">十堰游记</a> <a href="https://gs.ctrip.com/html5/you/travels/10000/3721342.html" target="_blank">大连湖北自驾游二</a></li><li>[303天前] _CFT** 发布了<a href=https://gs.ctrip.com/html5/you/travels/464.html target="_blank">十堰游记</a> <a href="https://gs.ctrip.com/html5/you/travels/100067/3720748.html" target="_blank">大连湖北自驾游</a></li><li>[318天前] lott** 发布了<a href=https://gs.ctrip.com/html5/you/travels/464.html target="_blank">十堰游记</a> <a href="https://gs.ctrip.com/html5/you/travels/146/3714839.html" target="_blank">手绘游记◇武当山</a></li><li>[325天前] Cind** 发布了<a href=https://gs.ctrip.com/html5/you/travels/464.html target="_blank">十堰游记</a> <a href="https://gs.ctrip.com/html5/you/travels/100067/3711946.html" target="_blank">武汉-武当山-十堰（租车三天）-神农架 十天旅行记事</a></li><li>[351天前] 毛浩** 发布了<a href=https://gs.ctrip.com/html5/you/travels/464.html target="_blank">十堰游记</a> <a href="https://gs.ctrip.com/html5/you/travels/148/3694303.html" target="_blank">蜜月一月游（西安-昆明-大理-丽江-成都-峨眉-长沙-武汉-武当山-...</a></li><li>[352天前] _M13** 发布了<a href=https://gs.ctrip.com/html5/you/travels/464.html target="_blank">十堰游记</a> <a href="https://gs.ctrip.com/html5/you/travels/146/3697453.html" target="_blank">武汉、荆门钟祥、襄阳、十堰武当山、信阳鸡公山的匆匆五日行</a></li><li>[4小时前] _M13** 发表了<a href=https://gs.ctrip.com/html5/you/article/list-d464.html target="_blank">十堰资讯 <a href="https://gs.ctrip.com/html5/you/article/detail/5795272.html" target="_blank">窥斑见豹</a></li><li>[4小时前] _M13** 发表了<a href=https://gs.ctrip.com/html5/you/article/list-d464.html target="_blank">十堰资讯 <a href="https://gs.ctrip.com/html5/you/article/detail/5795249.html" target="_blank">中国水都，亚洲天池。</a></li><li>[4小时前] 我的** 发表了<a href=https://gs.ctrip.com/html5/you/article/list-d464.html target="_blank">十堰资讯 <a href="https://gs.ctrip.com/html5/you/article/detail/5795023.html" target="_blank">很好玩哦</a></li><li>[6小时前] 小—** 发表了<a href=https://gs.ctrip.com/html5/you/article/list-d464.html target="_blank">十堰资讯 <a href="https://gs.ctrip.com/html5/you/article/detail/5794385.html" target="_blank">每一时每一刻，我都在默默地原地等待，等待你的到来，我轻轻的随...</a></li><li>[20小时前] 小—** 发表了<a href=https://gs.ctrip.com/html5/you/article/list-d464.html target="_blank">十堰资讯 <a href="https://gs.ctrip.com/html5/you/article/detail/5790962.html" target="_blank">天然的，才是值得珍惜的和拥有的。</a></li><li>[20小时前] 小—** 发表了<a href=https://gs.ctrip.com/html5/you/article/list-d464.html target="_blank">十堰资讯 <a href="https://gs.ctrip.com/html5/you/article/detail/5790955.html" target="_blank">山城，有很多的比较特别的风景</a></li><li>[21小时前] 小—** 发表了<a href=https://gs.ctrip.com/html5/you/article/list-d464.html target="_blank">十堰资讯 <a href="https://gs.ctrip.com/html5/you/article/detail/5790943.html" target="_blank">天然氧吧，值得拥有</a></li><li>[22小时前] M44*** 发表了<a href=https://gs.ctrip.com/html5/you/article/list-d464.html target="_blank">十堰资讯 <a href="https://gs.ctrip.com/html5/you/article/detail/5790602.html" target="_blank">不错</a></li><li>[1天前] m30*** 发表了<a href=https://gs.ctrip.com/html5/you/article/list-d464.html target="_blank">十堰资讯 <a href="https://gs.ctrip.com/html5/you/article/detail/5789984.html" target="_blank">身边的美景，湖北十堰月亮湖</a></li><li>[1天前] M25*** 发表了<a href=https://gs.ctrip.com/html5/you/article/list-d464.html target="_blank">十堰资讯 <a href="https://gs.ctrip.com/html5/you/article/detail/5787117.html" target="_blank">白云蓝天</a></li><li>[1天前] _WeC** 发表了<a href=https://gs.ctrip.com/html5/you/article/list-d464.html target="_blank">十堰资讯 <a href="https://gs.ctrip.com/html5/you/article/detail/5785522.html" target="_blank">背影</a></li><li>[1天前] 王选** 发表了<a href=https://gs.ctrip.com/html5/you/article/list-d464.html target="_blank">十堰资讯 <a href="https://gs.ctrip.com/html5/you/article/detail/5785188.html" target="_blank">竹山老家</a></li><li>[1天前] TXB6** 发表了<a href=https://gs.ctrip.com/html5/you/article/list-d464.html target="_blank">十堰资讯 <a href="https://gs.ctrip.com/html5/you/article/detail/5783864.html" target="_blank">下雨步行游玩哟</a></li><li>[2天前] 主席 发表了<a href=https://gs.ctrip.com/html5/you/article/list-d464.html target="_blank">十堰资讯 <a href="https://gs.ctrip.com/html5/you/article/detail/5755882.html" target="_blank">丹江口沧浪海旅游港</a></li><li>[2天前] 心向** 发表了<a href=https://gs.ctrip.com/html5/you/article/list-d464.html target="_blank">十堰资讯 <a href="https://gs.ctrip.com/html5/you/article/detail/5780885.html" target="_blank">武当山道教圣地，风景优美，奇山怪石。到了武当山才明白武当不仅...</a></li><li>[2天前] 没事** 发表了<a href=https://gs.ctrip.com/html5/you/article/list-d464.html target="_blank">十堰资讯 <a href="https://gs.ctrip.com/html5/you/article/detail/5780559.html" target="_blank">我是来领教武当剑法太极拳的</a></li><li>[2天前] TXB6** 发表了<a href=https://gs.ctrip.com/html5/you/article/list-d464.html target="_blank">十堰资讯 <a href="https://gs.ctrip.com/html5/you/article/detail/5778985.html" target="_blank">开心每一天</a></li><li>[2天前] Chal** 发表了<a href=https://gs.ctrip.com/html5/you/article/list-d464.html target="_blank">十堰资讯 <a href="https://gs.ctrip.com/html5/you/article/detail/5694724.html" target="_blank">十堰二日游 #十堰#  这是我们鄂西自驾的第一个目的地，主要景点...</a></li><li>[3天前] 地主 发表了<a href=https://gs.ctrip.com/html5/you/article/list-d464.html target="_blank">十堰资讯 <a href="https://gs.ctrip.com/html5/you/article/detail/5776837.html" target="_blank">雨中金顶，云雾变幻！大道武当</a></li><li>[3天前] gys1** 发表了<a href=https://gs.ctrip.com/html5/you/article/list-d464.html target="_blank">十堰资讯 <a href="https://gs.ctrip.com/html5/you/article/detail/5775969.html" target="_blank">欢乐子胥湖</a></li><li>[3天前] gys1** 发表了<a href=https://gs.ctrip.com/html5/you/article/list-d464.html target="_blank">十堰资讯 <a href="https://gs.ctrip.com/html5/you/article/detail/5775908.html" target="_blank">休闲，惬意，祥源湾！</a></li><li>[3天前] M27*** 发表了<a href=https://gs.ctrip.com/html5/you/article/list-d464.html target="_blank">十堰资讯 <a href="https://gs.ctrip.com/html5/you/article/detail/5775339.html" target="_blank">绿色亲水之旅</a></li><li>[3天前] 地主 发表了<a href=https://gs.ctrip.com/html5/you/article/list-d464.html target="_blank">十堰资讯 <a href="https://gs.ctrip.com/html5/you/article/detail/5773758.html" target="_blank">大道无形</a></li><li>[3天前] 淡然** 发表了<a href=https://gs.ctrip.com/html5/you/article/list-d464.html target="_blank">十堰资讯 <a href="https://gs.ctrip.com/html5/you/article/detail/5737094.html" target="_blank">武当山  道教圣地</a></li><li>[3天前] 开垦** 发表了<a href=https://gs.ctrip.com/html5/you/article/list-d464.html target="_blank">十堰资讯 <a href="https://gs.ctrip.com/html5/you/article/detail/5770668.html" target="_blank">武当山是我年少时的武侠梦和青春时的仙侠梦，天气不太好，云雾朦...</a></li><li>[4天前] ZLj** 发表了<a href=https://gs.ctrip.com/html5/you/article/list-d464.html target="_blank">十堰资讯 <a href="https://gs.ctrip.com/html5/you/article/detail/5769705.html" target="_blank">山青水秀，大美漫川</a></li><li>[4天前] 不乐** 发表了<a href=https://gs.ctrip.com/html5/you/article/list-d464.html target="_blank">十堰资讯 <a href="https://gs.ctrip.com/html5/you/article/detail/5767762.html" target="_blank">龙头香</a></li><li>[4天前] 自由** 发表了<a href=https://gs.ctrip.com/html5/you/article/list-d464.html target="_blank">十堰资讯 <a href="https://gs.ctrip.com/html5/you/article/detail/5766788.html" target="_blank">我的天空3</a></li><li>[4天前] 柳叮** 发表了<a href=https://gs.ctrip.com/html5/you/article/list-d464.html target="_blank">十堰资讯 <a href="https://gs.ctrip.com/html5/you/article/detail/5766419.html" target="_blank">这个六一有儿子有你，足以。</a></li><li>[5天前] 不乐** 发表了<a href=https://gs.ctrip.com/html5/you/article/list-d464.html target="_blank">十堰资讯 <a href="https://gs.ctrip.com/html5/you/article/detail/5761339.html" target="_blank">南岩</a></li></ul></div></div></div><div class="footgray"><div class="footinner cf"><dl><dt>社区必读</dt><dd><a href="http://you.ctrip.com/htmlpages/eula.html" target="_blank">用户协议</a></dd><dd><a href="http://you.ctrip.com/htmlpages/guide.html" target="_blank">社区指南</a></dd><dd><a href="http://you.ctrip.com/htmlpages/exp.html" target="_blank">经验与等级</a></dd><dd><a href="http://you.ctrip.com/htmlpages/help.html" target="_blank">新手导航</a></dd><dd><a href="http://you.ctrip.com/thematic/marketing/mianze" target="_blank">网络信息侵权保障</a></dd></dl><dl><dt>发现你的旅行</dt><dd><a href="http://you.ctrip.com/place" target="_blank">了解目的地</a></dd><dd><a href="http://you.ctrip.com/travels" target="_blank">阅读精彩游记</a></dd><dd><a href="http://you.ctrip.com/guides" target="_blank">下载精品攻略</a></dd><dd><a href="http://you.ctrip.com/asks" target="_blank">请教旅行达人</a></dd><dd><a href="http://you.ctrip.com/events" target="_blank">发起结伴</a></dd></dl><dl><dt>分享你的旅行</dt><dd><a href="http://you.ctrip.com/add-travel/guide.html" target="_blank">发表游记大作</a></dd><dd><a href="http://you.ctrip.com/dianping/" target="_blank">点评去过的景点</a></dd></dl><dl class="ftabout"><dt>关于我们</dt><dd><a href="http://you.ctrip.com/htmlpages/about.html" target="_blank">社区简介</a></dd><dd><a href="http://you.ctrip.com/htmlpages/contact.html" target="_blank">联系我们</a></dd><dd><a href="http://you.ctrip.com/htmlpages/job.html" target="_blank">加入我们</a></dd><dd><a href="http://you.ctrip.com/intelligence.html" target="_blank">智慧旅游</a></dd></dl><dl class="ftguanzhu"><dt>关注携程攻略社区</dt><dd class="youguanzhu cf"><span class="ftweixin"></span></dd></dl></div></div>
+    <div id="base_ft">
+<p>
+<a href="http://pages.ctrip.com/public/sitemap/sitemap.htm" target="_blank" title="网站导航">网站导航</a>&nbsp;|&nbsp;<a href="http://hotels.ctrip.com/jiudian/" target="_blank" title="宾馆索引">宾馆索引</a>&nbsp;|&nbsp;<a href="http://flights.ctrip.com/booking/hot-city-flights-sitemap.html " target="_blank" title="机票索引">机票索引</a>&nbsp;|&nbsp;<a href="http://pages.ctrip.com/public/sitemap/dj.html" title="旅游索引">旅游索引</a>&nbsp;|&nbsp;<a href="http://ct.ctrip.com/crptravel/sitemap.html" title="商旅索引">商旅索引</a>&nbsp;|&nbsp;<a title="攻略索引" href="http://you.ctrip.com/sitemap/">攻略索引</a>&nbsp;|&nbsp;<a rel="nofollow" href="http://pages.ctrip.com/public/ctripab/abctrip.htm" target="_blank" title="关于携程">关于携程</a>&nbsp;|&nbsp;<a rel="nofollow" target="_blank" href="http://pages.ctrip.com/commerce/promote/201201/other/qygm/index.html" title="企业公民">企业公民</a>&nbsp;|&nbsp;<a rel="nofollow" target="_blank" href="http://job.ctrip.com/" title="诚聘英才">诚聘英才</a>&nbsp;|&nbsp;<a rel="nofollow" title="智慧旅游" href="http://you.ctrip.com/Intelligence.html">智慧旅游</a>&nbsp; |&nbsp;<a rel="nofollow" target="_blank" href="http://u.ctrip.com/" title="分销联盟">分销联盟</a>&nbsp;|&nbsp;<a rel="nofollow" target="_blank" href="http://pages.ctrip.com/public/dlhz.htm" title="代理合作">代理合作</a>&nbsp;|&nbsp;<a target="_blank" href="http://ct.ctrip.com" title="企业商旅">企业商旅</a>&nbsp;|&nbsp;<a target="_blank" href="http://ct.ctrip.com/crptravel/default/landing" title="中小企业差旅">中小企业差旅</a>&nbsp;|&nbsp;<a rel="nofollow" target="_blank" href="http://pages.ctrip.com/public/ctripad/adyw.htm" title="广告业务">广告业务</a>&nbsp;|&nbsp;<a rel="nofollow" target="_blank" href="http://pages.ctrip.com/public/contact.htm" title="联系我们">联系我们</a>
+</p>
+<p>
+<a rel="nofollow" href="http://pages.c-ctrip.com/cooperation/web/cooperation.html#ctm_ref=ctr_hp_btm_coop" target="_blank">加盟合作</a>&nbsp;|&nbsp;<a rel="nofollow" href="http://join.easytrip.com/jiameng/#ctm_ref=ctr_def_btm_hsu_n_1" target="_blank" title="酒店加盟">酒店加盟</a>&nbsp;|&nbsp;<a rel="nofollow" href="http://dst.ctrip.com/">目的地及景区合作</a>&nbsp;|&nbsp;<a rel="nofollow" href="http://pages.ctrip.com/public/serve%20guideline.htm" target="_blank" title="用户协议">用户协议</a>&nbsp;|&nbsp;<a rel="nofollow" href="http://pages.ctrip.com/public/serve%20guideline.htm" target="_blank" title="隐私政策">隐私政策</a>&nbsp;|&nbsp;<a rel="nofollow" target="_blank" href="http://pages.ctrip.com/public/diploma/company.htm">营业执照</a>&nbsp;|&nbsp;<a rel="nofollow" target="_blank" href="http://m.ctrip.com/webapp/vacations/tour/supplier" title="旅游度假资质">旅游度假资质</a>&nbsp;|&nbsp;<a rel="nofollow" target="_blank" href="https://insurance.ctrip.com/portal/index.aspx">保险代理</a>&nbsp;|&nbsp;<a target="_blank" href="http://pages.ctrip.com/public/link/ctrip_link.html">友情链接</a>&nbsp;|&nbsp;<a rel="nofollow" href="http://pages.ctrip.com/public/copyright.htm" id="copyright">Copyright&copy;</a>,&nbsp;<a href="http://www.ctrip.com/">ctrip.com</a>. All rights reserved.&nbsp;|&nbsp;<a rel="nofollow" target="_blank" href="http://www.miibeian.gov.cn/">ICP证：沪B2-20050130</a>
+</p>
+<p class="gns">
+<a href="http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=31010502002731"><i class="icon-gns"></i>沪公网备31010502002731号</a>
+</p>
+<div class="honour_wrap">
+<a href="http://www.ca-sme.com/index.credit?action=certDetail&amp;id=40288084605466f1016057ea4cb20021" class="honour1" target="_blank" rel="nofollow">信用评级</a><a href="http://www.sgs.gov.cn/lz/licenseLink.do?method=licenceView&amp;entyId=20110428175405415" title="工商亮照标识" class="honour2" target="_blank" rel="nofollow">上海工商</a><a href="https://credit.szfw.org/CX20111018000615000623.html" title="诚信认证示范企业" class="honour3" target="_blank" rel="nofollow">诚信网站</a><a href="http://www.zx110.org/" class="honour4" target="_blank" rel="nofollow" title="征信网">网络社会征信网</a><a href="http://www.shjbzx.cn/" class="honour5" target="_blank" rel="nofollow" title="上海市互联网违法与违规信息举报中心">信息举报中心</a><a href="https://ss.knet.cn/verifyseal.dll?sn=e12061531010025926306977" class="honour6" target="_blank" rel="nofollow" title="可信网站">可信网站</a><a href="http://www.12377.cn/" class="honour8" title="违法和不良信息举报中心" target="_blank" rel="nofollow">违法和不良信息举报中心</a>
+</div>
+</div><config id="timespan" value="20160329"></config><!--InstanceEnd name="position"-->
+<script type="text/javascript">var globalConfig={H1:'https',AjaxUrl:'accounts.ctrip.com',H3:'my.ctrip.com',PassportUrl:'passport.ctrip.com',Lang:'gb2312'};</script><script type="text/javascript" src="//webresource.c-ctrip.com/ResCRMOnline/R1/pageheader/js/ActivityController_V2.min.js?temp=723,747,849" charset="utf-8"></script>
+<div class="gs_bottombar cf"><ul><li><a href="http://you.ctrip.com/travels/shanghai2/3509044.html" target="_blank">点亮旅行家勋章，开启新福利</a><span></span></li><li><a href="http://m.ctrip.com/webapp/you/operations/diningcity.html " target="_blank">【美食风暴】超值美食套餐买一赠一！</a></li></ul></div>
+</div>
+<input type="hidden" id="sso_loginprocxyPath" name="sso_loginprocxyPath" value="http://you.ctrip.com/DestinationSite/LoginHelper/loginprocxy.html" />
+                                            <script type="text/javascript" src="//webresource.c-ctrip.com/ResCRMOnline/R6/member/common/js/mask_you.js?20140603" charset="gb2312" ></script>
+
+
+        
+    <script charset="utf-8" type="text/javascript" src="//webresource.c-ctrip.com/resgswebonline/R1/common/js/common.v2.0.js?20190531132028"></script>
+    <script charset="utf-8" type="text/javascript" src="//webresource.c-ctrip.com/resgswebonline/R1/fed/js/fed.v2.0.js?20190531132028"></script>
+    <script charset="utf-8" type="text/javascript" src="//webresource.c-ctrip.com/resgswebonline/R1/ttd2/js/city_sight.v2.0.js?20190531132028"></script>
+    <script type="text/javascript">
+        function SetImgOriginalUrl() {
+            try {
+                $("img[data-original]").each(function (i) {
+                    var url = $(this).attr("data-original");
+                    if (url != "") {
+                        $(this).attr("src", url);
+                    }
+                });
+            } catch (e) {
+            }
+        }
+        $(function () {
+            ShowVacationAd(); ShowspecialHotelAd(); GetExpertPartialView();
+            SetImgOriginalUrl();
+        }); </script>
+    <script type="text/javascript">
+        var IsTheme = 0;
+        //是否是标签列表页（0否，1是）
+        var LabelID = 0;
+        //主题标签
+        var RegionID = 0;
+        //行政区
+        var IsPrice = 0;
+        //是否订购
+        var Keywords = '';
+        //关键字
+        var DistrictID = 464;
+        //目的地ID
+        var PageNow = 1;
+        //当前页码
+        var EName = 'Shiyan';
+        //目的地英文名称
+
+        var OrderType = '0';
+
+        if (PageNow>1) {
+            window.location.hash = 'sightname';
+        }
+       
+        $(function() {
+            if (IsPrice == 1) {
+                $("#search_sight_dg").attr("checked", true);
+            } else {
+                $("#search_sight_dg").attr("checked", false);
+            }
+
+            if (Keywords != "") {
+                $("#search_sight_name").val(Keywords);
+            }
+            
+            $("#search_sight_dg").click(function() {
+                if ($("#search_sight_dg").attr("checked")) {
+                    IsPrice = 1;
+                } else {
+                    IsPrice = 0;
+                }
+                PageNow = 1;
+                OnSearch();
+            });
+             if ($("#inChina").val().toLowerCase() == "true") {
+                GetSpecialFlightView();
+            } else {
+                ShowIntelFlightAd();
+            }
+        });
+
+        function OnLabel(id) {
+            PageNow = 1;
+            LabelID = id;
+            OnSearch();
+        }
+
+        function OnRegion(id) {
+            RegionID = id;
+            PageNow = 1;
+            OnSearch();
+        }
+
+        function ColseKeys() {
+            Keywords = "";
+            PageNow = 1;
+            OnSearch();
+        }
+        function OnOrderBy(id) {
+            OrderType = id;
+            OnSearch();
+        }
+        function OnSubmit() {
+            var strkey = $.trim($("#search_sight_name").val());
+            var pl = $("#search_sight_name").attr('placeholder');
+            if (strkey == "" || strkey==pl)
+            { Keywords = ""; }
+            else
+            { Keywords = strkey; }
+            PageNow = 1;
+            OnSearch();
+        }
+        var INTERFACE = window.INTERFACE || {};
+
+        INTERFACE.pageLinkJump = function (page) {
+            PageNow = page;
+            OnSearch();
+        };
+        INTERFACE.poo_city_name = '十堰';
+        INTERFACE.poo_city_id = '464';
+
+        function OnSearch() {
+            var strUrl = "";
+            var key = "";
+            var type = "";
+            //是否是标签页
+            if (IsTheme == '1') {
+                type = "?type=t";
+            }
+            if (Keywords != "") {
+                if (IsTheme == '1') {
+                    key = "&keywords=" + escape(Keywords);
+                } else {
+                    key = "?keywords=" + escape(Keywords);
+                }
+            }
+//            if (OrderType != "") {
+//                if (Keywords == "" && IsTheme != '1') {
+//                    key += "?ordertype=" + escape(OrderType);
+//                } else {
+//                    key += "&ordertype=" + escape(OrderType);
+//                }
+//            }
+            var params = type + key;
+
+            if ((LabelID == "" || LabelID == 0) && (PageNow == "" || PageNow <= 1) && (IsPrice == "" || IsPrice == 0) && (RegionID == "" || RegionID == 0) &&(OrderType == "" || OrderType ==0))  {
+                strUrl = "/sight/" + EName + DistrictID + ".html" + params;
+            } else {
+                var label = LabelID == "" || LabelID == 0 ? "s0" : "s" + LabelID;
+                var page = PageNow == "" || PageNow <= 1 ? "" : "-p" + PageNow;
+                var label1 = LabelID == "" || LabelID == 0 ? "" : "-l" + LabelID;
+                var isprice = IsPrice == "" || IsPrice == 0 ? "" : "-i1";
+                var region = RegionID == "" || RegionID == 0 ? "" : "-r" + RegionID;
+                var otype = OrderType != "" && OrderType != "0" ? "-o" + OrderType : "";
+                var strparams = label + page + label1+ region + isprice +otype;
+                strUrl = "/sight/" + EName + DistrictID + "/" + strparams + ".html" + params;
+            }
+
+            window.location.href = strUrl;
+        }
+    </script>
+
+
+        <script type="text/javascript">
+            if (!window.__SSO_submit) {
+                window.__SSO_submit = function (a, t) {
+                    $('.a_popup_login').removeClass('a_popup_login');
+                    switch (a) {
+                    case 'wantClickID':
+                    case 'wentClickID':
+                        $("#" + a).trigger('click');
+                        break;
+                    case 'setFriend0':
+                    case 'setFriend1':
+                    case 'setFriend2':
+                        SetFirendProfileurlNo(a);
+                        break;
+                    case 'writereviewid':
+                        var currentUrl = window.location.href.replace(/#.*$/g, "");
+                        var urlParamsIndex = currentUrl.lastIndexOf("?");
+                        var randomCode = Math.floor(Math.random() * 10000 + 1);
+
+                        if (urlParamsIndex == -1) {
+                            currentUrl += "?RandomCode=" + randomCode;
+                        } else {
+                            var hasParamAlready = currentUrl.match(/RandomCode=[^&]{0,}/);
+                            if (hasParamAlready != null) {
+                                currentUrl = currentUrl.replace(/RandomCode=[^&]{0,}/, "RandomCode=" + randomCode);
+                            } else {
+                                currentUrl += "&RandomCode=" + randomCode;
+                            }
+                        }
+                        window.location.href = currentUrl + "#dianPing";
+                        break;
+                    case 'comment-submit':
+                        $(".post_review .btn_line .gsn-btn-2").click();
+                        break;
+                    }
+                };
+            }
+
+            if (window.$) {
+                $(function () {
+                    if (window.ShowGowant) {
+                        ShowGowant();
+                    }
+                    if (window.ShowWeather) {
+                        ShowWeather();
+                    }
+                    if (window.asynfunc) {
+                        for (var index in window.asynfunc) {
+                            try {
+                                window.asynfunc[index].call();
+                            } catch (e) {
+                                if (window.console) {
+                                    console.log(e);
+                                }
+                            }
+                        }
+                    }
+                });
+            }
+        </script>
+    </body>
+</html>
